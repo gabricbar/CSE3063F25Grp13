@@ -1,0 +1,1031 @@
+[
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 0,
+    "rawText": "Akademik Kadro - Öğretim Üyeleri",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 1,
+    "rawText": "Prof. Dr. Haluk Bahri TOPÇUOĞLU (Bölüm Başkanı)\r\nPhD: Computer ENG.-Oregon University\r\nMS: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nBS: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nE-posta: haluk\r\nOfis: Office:M2-217",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 2,
+    "rawText": "Prof. Dr. Ali Fuat ALKAYA\r\nPhD: Mühendislik Yönetimi: Marmara Üniversitesi\r\nMS: Bilgisayar Müh.-Marmara Üniversitesi\r\nBS: Matematik-Koç Üniversitesi\r\nE-posta: alfalkaya\r\nOfis: Office:M2-249",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 3,
+    "rawText": "Prof. Dr. Borahan TÜMER\r\nPhD: Computer Eng.-Marquette University\r\nMS: Bilgisayar Müh.-İstanbul Teknik Üniversitesi\r\nBS: Bilgisayar Müh.-Marmara Üniversitesi\r\nE-posta: borahan.tumer\r\nTelefon: 3541\r\nOfis: Office:M2-209",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 4,
+    "rawText": "Doç. Dr. Mustafa AĞAOĞLU\r\nPhD: Bilişim-Marmara Üniversitesi\r\nMS: Bilgisayar Müh.-Marmara Üniversitesi\r\nBS: Fizik-Boğaziçi Üniversitesi\r\nE-posta: agaoglu\r\nTelefon: 3540\r\nOfis: Office:M2-221",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 5,
+    "rawText": "Doç. Dr. Murat Can GANİZ\r\nPhD: Computer Science-Lehigh University\r\nMS: Bilgisayar Müh.-Selçuk Üniversitesi\r\nBS: Bilgisayar Müh.-Selçuk Üniversitesi\r\nE-posta: murat.ganiz\r\nTelefon: 3529\r\nOfis: Office:M2-251",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 6,
+    "rawText": "Doç. Dr. Ömer KORÇAK (Bölüm Başkan Yard.)\r\nPhD: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nMS: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nBS: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nE-posta: omer.korcak\r\nTelefon: 3543\r\nOfis: Office:M2-208",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 7,
+    "rawText": "Doç. Dr. Öğr. Üyesi Ali Haydar ÖZER\r\nPhD: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nMS: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nBS: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nE-posta: haydar.ozer\r\nTelefon: 3533\r\nOfis: Office:M2-253",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 8,
+    "rawText": "Doç. Dr. Müjdat SOYTÜRK\r\nPhD: Bilgisayar Müh.-İstanbul Teknik Üniversitesi\r\nMS: Bilgisayar Müh.-İstanbul Teknik Üniversitesi\r\nBS: Endüstri Müh.-Deniz Harp Okulu\r\nE-posta: mujdat.soyturk\r\nTelefon: 3542\r\nOfis: Office:M2-204",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 9,
+    "rawText": "Dr. Öğr. Üyesi Mehmet BARAN\r\nPhD: Computer Eng.-Rensselear Polytechnic Institute\r\nMS: Computer Eng./Mathematics-Rensselear Polytechnic Institute\r\nBS: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nE-posta: mehmet.baran\r\nTelefon: 3538\r\nOfis: Office:M2-233",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 10,
+    "rawText": "Dr. Öğr. Üyesi Betül Demiröz BOZ (Bölüm Başkan Yard.)\r\nPhD: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nMS: Bilgisayar Müh.-İstanbul Teknik Üniversitesi\r\nBS: Bilgisayar Müh.-Marmara Üniversitesi\r\nE-posta: betul.demiroz\r\nTelefon: 3534\r\nOfis: Office:M2-234",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 11,
+    "rawText": "Dr. Öğr. Üyesi Fatma Corut ERGİN\r\nPhD: Bilgisayar Müh.-İstanbul Üniversitesi\r\nMS: Bilgisayar Müh.-Marmara Üniversitesi\r\nBS: Bilgisayar Müh.-Marmara Üniversitesi\r\nE-posta: fatma.ergin\r\nTelefon: 3536\r\nOfis: Office:M2-229",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 12,
+    "rawText": "Dr. Öğr. Üyesi Sanem Arslan\r\nPhD: Bilgisayar Müh.-Boğaziçi Üniversitesi\r\nMS: Bilgisayar Müh.-Marmara Üniversitesi\r\nBS: Bilgisayar Müh.-Marmara Üniversitesi\r\nE-posta: sanem.arslan\r\nTelefon: 3550\r\nOfis: Office:M2-230",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 13,
+    "rawText": "Dr. Öğr. Üyesi Kamil ERDAYANDI\r\nPhD: Computer Science-The University of Manchester\r\nMS: Elektronik Müh.-Sabancı Üniversitesi\r\nBS: E.Elektronik Müh.(ÇAP)-Yeditepe Üniversitesi\r\nE-posta: kamil.erdayandi\r\nTelefon: 3554\r\nOfis: Office:M2-232",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "akademik kadro.txt",
+    "chunkId": 14,
+    "rawText": "Önceki Dönemlerde Görev Alan Öğretim Üyeleri\r\nProf. Dr. Çiğdem Eroğlu Erdem\r\nProf. Dr. Akif Eyler\r\nProf. Dr. Ensar Gül\r\nDoç. Dr. Melih Kırlıdoğ\r\nDr. Öğr. Üyesi Peter Schuller\r\nDr. Öğr. Üyesi Mustafa Sakallı",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ BİTİRME PROJESİ ESASLARI (CSE4197/CSE4198)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 1,
+    "rawText": "Derslerin İçeriği ve Amacı\r\nBitirme projesi (CSE4197 ve CSE4198), öğrenciye profesyonel bir bilgisayar mühendisi gibi bilgi ve yeteneğini kanıtlaması ve disiplinli bir şekilde projeyi uygulayabilmesi için fırsat verir. Projenin uygulanması, bilgi ve yeteneklerin edinilmesinde öğrenciden büyük bir özgünlük beklenir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 2,
+    "rawText": "Öğrenciye Katkıları:",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 3,
+    "rawText": "Proje sorumluluğu",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 4,
+    "rawText": "Yönetim becerisi",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 5,
+    "rawText": "Grup çalışması alışkanlığı",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 6,
+    "rawText": "Sunum becerisi",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 7,
+    "rawText": "Akademisyenler, endüstri liderleri ya da çalışanları ile tanışma fırsatı",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 8,
+    "rawText": "Grup ve Yeterlilik Şartları",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 9,
+    "rawText": "Öğrenciler iki-üç kişilik gruplar halinde ICT (Bilgi ve İletişim Teknolojileri) projesini yapabilecek yeterliliğe sahip olmalıdır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 10,
+    "rawText": "Çalışmalarını izleyicilere sunabilmeleri gerekir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 11,
+    "rawText": "Seminerler\r\nÖğrenciler dersleri kapsamında düzenlenen seminerlere katılmak zorundadır. Bu seminerlerde seçkin sektör liderleri ve akademisyenler deneyim ve tavsiyelerini aktarır. Katılım zorunludur.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 12,
+    "rawText": "Ön Koşullar ve Krediler",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 13,
+    "rawText": "CSE4197 ve CSE4198 dersleri dördüncü sınıf dersleri olarak planlanmıştır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 14,
+    "rawText": "CSE4197 dersini almak için öğrencinin 165 ECTS kredisini tamamlaması gerekir. (Bu hesaba yaz stajları ve dördüncü sınıf müfredatında yer alan NTE/University Elective/TE/FTE/Work Safety dersleri dahil değildir.)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 15,
+    "rawText": "CSE4198 dersi, CSE4197 dersini takip eder. CSE4197\u0027den geçen öğrenciler takip eden dönemde CSE4198 dersini alabilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 16,
+    "rawText": "Danışmanlık ve Değerlendirme",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 17,
+    "rawText": "Her grubun projelerini denetleyen ve tavsiye veren bir danışmanı vardır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 18,
+    "rawText": "Gruplar dönem sonuna kadar haftada bir, dönem sonuna doğru ise daha sık bir şekilde danışmanlarıyla görüşmelidir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "bitirme_projesi.txt",
+    "chunkId": 19,
+    "rawText": "Grup üyeleri her dönem sonunda aynı notu alır. Ancak danışmanın farklı notlar verme yetkisi bulunmaktadır. Bireysel olarak ya da tüm grup dönem sonunda dersi tamamlamış olarak da sayılabilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ders_planı.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ DERS PLANI VE ÖNKOŞULLAR",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ders_planı.txt",
+    "chunkId": 1,
+    "rawText": "Dönem (Freshman - Güz)\r\nCSE1200 Introduction to Computer Eng. (ECTS\u003d4)\r\nMATH1001 Calculus I (ECTS\u003d6)\r\nCSE1241 Computer Programming I (ECTS\u003d6)\r\nPHYS1101 Physics I (ECTS\u003d4)\r\nPHYS1103 Physics Lab I (ECTS\u003d2)\r\nATA121 Atatürk\u0027s Prin. \u0026 History I (ECTS\u003d2)\r\nMBG1201 Introduction to Modern Biology (ECTS\u003d5)\r\nTRD 121 Turkish Language I (ECTS\u003d2)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ders_planı.txt",
+    "chunkId": 2,
+    "rawText": "Dönem (Freshman - Bahar)\r\nCSE1242 Computer Programming II (ECTS\u003d6) - Önkoşul: CSE1241\r\nMATH1002 Calculus II (ECTS\u003d6) - Önkoşul: MATH1001\r\nPHYS1102 Physics II (ECTS\u003d4)\r\nPHYS1104 Physics Lab II (ECTS\u003d2)\r\nNTEI Nontechnical Elective I (ECTS\u003d3)\r\nATA122 Atatürk\u0027s Prin. \u0026 History II (ECTS\u003d2)\r\nMATH2256 Linear Algebra for Comp. Eng. (ECTS\u003d5)\r\nTRD 122 Turkish Language II (ECTS\u003d2)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ders_planı.txt",
+    "chunkId": 3,
+    "rawText": "Dönem (Sophomore - Güz)\r\nCSE2023 Discrete Comp. Structures (ECTS\u003d6)\r\nCSE2225 Data Structures (ECTS\u003d7) - Önkoşul: CSE1242\r\nEE2031 Electric Circuits (ECTS\u003d5)\r\nMATH2059 Numerical Methods (ECTS\u003d4)\r\nECON2004 Engineering Economy (ECTS\u003d4)\r\nMATH2055 Differential Equations (ECTS\u003d4) - Önkoşul: MATH1002",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ders_planı.txt",
+    "chunkId": 4,
+    "rawText": "Dönem (Sophomore - Bahar)\r\nCSE2246 Analysis of Algorithms (ECTS\u003d6) - Önkoşul: CSE2225\r\nCSE2260 Principles of Prog. Languages (ECTS\u003d6) - Önkoşul: CSE2225\r\nCSE2138 Systems Programming (ECTS\u003d7) - Önkoşul: CSE1242\r\nEE2032 Electronics (ECTS\u003d5) - Önkoşul: EE2031\r\nSTAT2253 Prob. and Stat. for Comp. Eng. (ECTS\u003d5)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ders_planı.txt",
+    "chunkId": 5,
+    "rawText": "Dönem (Junior - Güz)\r\nCSE3055 Database Systems (ECTS\u003d7) - Önkoşul: CSE2225\r\nCSE3033 Operating Systems (ECTS\u003d7) - Önkoşul: CSE2138\r\nCSE3063 Object-Oriented Software Desg. (ECTS\u003d5) - Önkoşul: CSE1242\r\nCSE3215 Digital Logic Design (ECTS\u003d6)\r\nIE3081 Modeling and Disc. Simulation (ECTS\u003d4) - Önkoşul: STAT2253\r\nCSE3000 Summer Practice (ECTS\u003d10)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ders_planı.txt",
+    "chunkId": 6,
+    "rawText": "Dönem (Junior - Bahar)\r\nCSE3044 Software Engineering (ECTS\u003d7) - Önkoşul: CSE3063\r\nCSE3264 Formal Lang. \u0026 Auto. Theory (ECTS\u003d5) - Önkoşul: CSE2023\r\nCSE3038 Computer Organization (ECTS\u003d7) - Önkoşul: CSE3215\r\nCSE3048 Int. to Signals and Systems (ECTS\u003d5) - Önkoşul: MATH2055\r\nCOM2202 Tech. Comm. \u0026 Entrepreneurship (ECTS\u003d2)\r\nUE University Elective (ECTS\u003d3)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ders_planı.txt",
+    "chunkId": 7,
+    "rawText": "Dönem (Senior - Güz)\r\nCSE4297 Engineering Project I (ECTS\u003d5)\r\nCSE4074 Computer Networks (ECTS\u003d5) - Önkoşul: CSE3033\r\nCSE4219 Prin. of Embed. System Design (ECTS\u003d6) - Önkoşul: CSE3038\r\nCSE4288 Int. to Machine Learning (ECTS\u003d5) - Önkoşul: STAT2253\r\nTE I Technical Elective I (ECTS\u003d5)\r\nISG121 Work Safety I (ECTS\u003d2)\r\nCSE4000 Summer Practice (ECTS\u003d10)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ders_planı.txt",
+    "chunkId": 8,
+    "rawText": "Dönem (Senior - Bahar)\r\nCSE4298 Engineering Project II (ECTS\u003d5) - Önkoşul: CSE4297\r\nIE3235 Operations Research (ECTS\u003d4) - Önkoşul: MATH2256\r\nTE II Technical Elective II (ECTS\u003d5)\r\nTE III Technical Elective III (ECTS\u003d5)\r\nTE IV Technical Elective IV (ECTS\u003d5)\r\nFTE Faculty Technical Elective (ECTS\u003d5)\r\nNTE II Nontechnical Elective II (ECTS\u003d3)\r\nISG122 Work Safety II (ECTS\u003d2)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ders_planı.txt",
+    "chunkId": 9,
+    "rawText": "Technical Electives (Örnekler)\r\nTE: CSE4075 Wireless \u0026 Mobile Networks (ECTS\u003d5)\r\nTE: CSE4034 Advanced Unix Programming (ECTS\u003d5)\r\nTE: CSE4061 Compiler Design (ECTS\u003d5)\r\nTE: CSE4217 Microprocessors (ECTS\u003d5)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 0,
+    "rawText": "YÜKSEKÖĞRETİM KURUMLARI ÖĞRENCİ DİSİPLİN YÖNETMELİĞİ",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 1,
+    "rawText": "BİRİNCİ BÖLÜM: Amaç ve Kapsam\r\nMADDE 1 – (1) Bu Yönetmeliğin amacı, yükseköğretim kurumları öğrencilerine verilecek disiplin cezaları ile soruşturma usul ve esaslarını düzenlemektir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 2,
+    "rawText": "İKİNCİ BÖLÜM: Disiplin Cezaları ve Suçları",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 3,
+    "rawText": "Uyarma cezasını gerektiren disiplin suçları (MADDE 4):\r\na) Yetkililerce sorulan hususları haklı bir sebep olmadan zamanında cevaplandırmamak.\r\nb) Belirlenen yerler dışında ilan asmak.\r\nc) İzinle asılmış duyuruları koparmak, yırtmak veya kirletmek.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 4,
+    "rawText": "Kınama cezasını gerektiren disiplin suçları (MADDE 5):\r\na) Eksik veya yanlış bilgi bildirmek.\r\nb) Ders, seminer, laboratuvar gibi çalışmaların düzenini bozmak.\r\nc) İzinsiz afiş ve pankart asmak.\r\nd) Sınavlarda kopyaya teşebbüs etmek.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 5,
+    "rawText": "Yükseköğretim kurumundan bir haftadan bir aya kadar uzaklaştırma (MADDE 6):\r\na) Öğrenme ve öğretme hürriyetini engelleyici eylemlerde bulunmak.\r\nc) Kendine hak sağlayan bir belgeyi başkasına kullandırmak.\r\ne) Yükseköğretim kurumunda alkollü içki içmek.\r\nf) İzinsiz toplantı düzenlemek.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 6,
+    "rawText": "Yükseköğretim kurumundan bir yarıyıl için uzaklaştırma (MADDE 7):\r\na) Personeli ve öğrencileri tehdit etmek.\r\nc) Fiili saldırıda bulunmak.\r\nç) Hırsızlık yapmak.\r\nd) Bina ve demirbaş eşyaya zarar vermek.\r\ne) Sınavlarda kopya çekmek veya çektirmek.\r\nf) İntihal yapmak.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 7,
+    "rawText": "Yükseköğretim kurumundan iki yarıyıl için uzaklaştırma (MADDE 8):\r\na) Görevlilere karşı cebir ve şiddet kullanmak.\r\nç) Uyuşturucu madde kullanmak veya bulundurmak.\r\nd) Sınavlarda tehditle kopya çekmek, kendi yerine başkasını sınava sokmak.\r\ne) Cinsel tacizde bulunmak.\r\ng) Bilişim sistemine girerek haksız çıkar sağlamak.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 8,
+    "rawText": "Yükseköğretim kurumundan çıkarma (MADDE 9):\r\na) Suç işlemek amacıyla örgüt kurmak veya üye olmak.\r\nb) Uyuşturucu madde ticareti yapmak.\r\nç) Cinsel dokunulmazlığı ihlal etmek.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 9,
+    "rawText": "Disiplin suçunun tekerrürü (MADDE 11):\r\nDisiplin cezası verilmesine sebep olmuş bir eylemin tekerrüründe bir derece ağır ceza uygulanır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 10,
+    "rawText": "ÜÇÜNCÜ BÖLÜM: Disiplin Soruşturması\r\nSoruşturma Süresi (MADDE 13): Soruşturmaya olayın öğrenilmesini müteakip derhal başlanır ve 15 gün içinde sonuçlandırılır (gerekirse süre uzatılabilir).\r\nSavunma Hakkı (MADDE 15): Öğrenciye isnat edilen suç, savunma tarihinden en az 7 gün önce yazılı olarak bildirilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "disiplin_yönetmeliği.txt",
+    "chunkId": 11,
+    "rawText": "DÖRDÜNCÜ BÖLÜM: Uygulama ve İtiraz\r\nİtiraz (MADDE 26): Verilen disiplin cezalarına karşı 15 gün içinde üniversite yönetim kuruluna itiraz edilebilir. İdari yargı yolu da açıktır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ KAYIT DONDURMA BİLGİLERİ",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 1,
+    "rawText": "Kayıt dondurma nedir? Hangi durumlarda kayıt dondurabilirim?\r\nAşağıda belirtilen haklı ve geçerli nedenlerin varlığı halinde ilgili öğrencinin veya kanuni temsilcisinin yazılı talebi üzerine birim yönetim kurulunun kararı ile öğrencinin kaydının dondurulmasına karar verilebilir:",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 2,
+    "rawText": "Öğrencinin, sağlık raporu ile belgelenmiş sağlıkla ilgili mazeretlerinin olması.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 3,
+    "rawText": "Doğal afetler nedeniyle öğrencinin öğrenime ara vermek zorunda kalmış olması.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 4,
+    "rawText": "Anne, baba, kardeş, eş veya çocuğunun ağır hastalığı halinde bakacak başka kimsenin bulunmaması nedeniyle, öğrencinin öğrenimine ara vermek zorunda olduğunu belgelendirmesi.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 5,
+    "rawText": "Öğrencinin tecil hakkını kaybetmesi veya tecilinin kaldırılması suretiyle askere alınması.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 6,
+    "rawText": "Öğrencinin tutukluluk hali.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 7,
+    "rawText": "Genel hükümlere göre kesinleşmiş bir mahkumiyet hali veya Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliğine göre yükseköğretim kurumundan süreli uzaklaştırma ya da çıkarma cezası dışındaki hallerin bulunması.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 8,
+    "rawText": "İlgili yönetim kurulunun haklı ve geçerli kabul edeceği diğer nedenlerin ortaya çıkması.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 9,
+    "rawText": "Süreler ve Şartlar:",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 10,
+    "rawText": "Öğrencinin başvurduğu yarıyıldan itibaren; sağlık, doğal afet ve ailevi nedenlerle bir veya iki yarıyıl kayıt dondurulabilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 11,
+    "rawText": "Askerlik durumunda askerlik süresi boyunca kayıt dondurulur.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 12,
+    "rawText": "Tutukluluk veya mahkumiyet halinde bu hallerin devamı süresince kayıt dondurulur.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 13,
+    "rawText": "Başvuru Süresi: Haklı ve geçerli nedenlerin kabul edilebilmesi, bu nedenin ortaya çıkışından itibaren en geç iki ay içinde ilgili öğrencinin kayıtlı olduğu birime bildirilmesi şartına bağlıdır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 14,
+    "rawText": "Mazereti kayıt dondurma süresinin bitiminden önce sona eren öğrenciler, dilekçeyle başvurarak bir sonraki başlamamış yarıyıldan/yıldan itibaren eğitimlerine devam edebilirler.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "kayıt_dondurma.txt",
+    "chunkId": 15,
+    "rawText": "Kayıt dondurma süreleri öğrencinin öğrenim süresinden sayılmaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mazeret_sınavı.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ MAZERET SINAVI YÖNERGESİ",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mazeret_sınavı.txt",
+    "chunkId": 1,
+    "rawText": "BİRİNCİ BÖLÜM: Amaç, Kapsam, Dayanak ve Tanımlar\r\nMADDE 1- (1) Bu Yönerge, Marmara Üniversitesine bağlı fakülte, yüksekokul ve meslek yüksekokulu ve enstitülerde yapılacak olan mazeret sınavlarına ilişkin usul ve esasları düzenler.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mazeret_sınavı.txt",
+    "chunkId": 2,
+    "rawText": "İKİNCİ BÖLÜM: Mazeret Hallerine İlişkin Hükümler\r\nMADDE 4 - (1) Hastalık hali: Öğrencinin sağlık sorunları nedeniyle mazeretli sayılabilmesi için hastalığını sağlık kurum ve kuruluşlarından aldığı bir raporla belgelendirmesi gerekmektedir.\r\nMADDE 5 - (1) Yakınların ölümü veya acilen hastaneye kaldırılması: Öğrencinin eşi, annesi, babası, çocuğu ve kardeşlerinden birinin vefatı halinde vefat tarihinden itibaren beş iş günü içerisinde katılamadığı sınavlardan mazeretli sayılabilmesi için ölüm raporunun ibrazı gerekir.\r\n(2) Birinci fıkrada adı geçenlerden birinin önemli bir hastalık veya kaza nedeni ile sınav arifesinde veya sınav günü acilen hastaneye kaldırılması durumunda öğrencinin mazeretli sayılabilmesi için hastanın raporunun ibrazı gerekir.\r\nMADDE 6-(1) Trafik kazası: Sınava gelmek üzere yola çıkan öğrencinin, sınava zamanında yetişmesini engelleyecek nitelikte bir trafik kazası geçirmesi halinde, trafik şubesinden alacağı kaza tutanağını ibraz etmesi durumunda mazeretli sayılır.\r\nMADDE 7-(1) Gözaltı ve tutukluluk hali: Öğrenci herhangi bir nedenle karakola götürülmüşse, ilgili karakol amirinden alacağı belgeyi ibraz etmesi gerekir.\r\nMADDE 8- (1) Üniversite ve diğer resmi kurumlarca görevlendirilme hali: Öğrenci ulusal veya uluslararası yarışma, sportif faaliyet vb. nedenle görevlendirilmişse mazeretli sayılır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mazeret_sınavı.txt",
+    "chunkId": 3,
+    "rawText": "ÜÇÜNCÜ BÖLÜM: Mazeretin Bildirilmesi, Kabulü ve Sınavın Uygulanması\r\nMADDE 10-(1) Bu Yönergede sayılan mazeretlerden biri nedeni ile sınava giremeyen öğrenci, mazeret sınavına girmek istediği ders veya dersleri belirten dilekçeyi mazeretini gösteren belgelerle sınavı izleyen beş iş günü içinde bağlı olduğu birim öğrenci işlerine/bölüm sekreterliğine bildirir.\r\n(2) Mazeretleri Birim Yönetim Kurulunca kabul edilenler, sınav hakkını akademik takvimde belirlenen mazeret sınav döneminde kullanırlar.\r\n(3) Mazereti Birim Yönetim Kurulunca kabul edilen öğrenci, rapor süresince ve rapor gününde diğer sınavlara giremez.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mezuniyet_belgeleri.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ MEZUNİYET BELGELERİNE İLİŞKİN YÖNERGE",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mezuniyet_belgeleri.txt",
+    "chunkId": 1,
+    "rawText": "Amaç ve Kapsam\r\nMADDE 1 - (1) Bu Yönergenin amacı, Marmara Üniversitesine bağlı programlardan mezun olmaya hak kazananlara verilecek olan belgelerin (diploma, sertifika vb.) hazırlanmasına ve teslim süreçlerine ilişkin esasları belirlemektir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mezuniyet_belgeleri.txt",
+    "chunkId": 2,
+    "rawText": "Diploma Türleri\r\nMADDE 5-(1) Program derecesine göre verilecek diploma türleri:\r\na) Önlisans diploması: İki yıllık öğretim yapan meslek yüksekokul programı mezunlarına verilir.\r\nb) Lisans diploması: En az dört yıl öğretim yapan fakülte veya yüksekokul programlarından mezunlara verilir.\r\ng) Fahri doktora diploması: Alanlarında yaptıkları başarılı çalışmalarla katkı sağlamış kişilere Senato kararı ile verilir.\r\nh) Uzaktan eğitim verilen programlara kayıt olan öğrencilerin diplomalarında \"Uzaktan Öğretim\" ibaresi yazılacaktır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mezuniyet_belgeleri.txt",
+    "chunkId": 3,
+    "rawText": "Diplomada Yer Alan Bilgiler\r\nMADDE 8-(1) Diploma ön yüzünde: Üniversitenin adı, Birimin adı, Diplomanın türü, Öğrencinin adı soyadı, Programın eğitim süresi, eğitim dili, Bölüm adı, Program adı, Derecesi ve Mezuniyet tarihi bulunur.\r\n(8) Diploma üzerinde şu bilgiler yer almaz (bunlar transkriptte olur): İkinci öğretim durumu, Derece/Onur derecesi bilgileri.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mezuniyet_belgeleri.txt",
+    "chunkId": 4,
+    "rawText": "Mezuniyet Belgelerinin Teslimi\r\nMADDE 11-(1) Diploma, diploma eki ve yandal sertifikası sadece mezunun bizzat kendisine veya noter onaylı vekâlet ibraz eden vekiline elden teslim edilir. Posta ile gönderilmez.\r\n(3) Geçici Mezuniyet Belgesi: Mezuniyet işlemleri yapılmış ancak diploması henüz hazırlanmamış olanlara, 6 ay geçerliliği olan \"Geçici Mezuniyet Belgesi\" verilir.\r\n(10) Süreli veya süresiz Geçici Mezuniyet Belgesi diplomasını teslim alırken mezundan geri istenmez.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mezuniyet_belgeleri.txt",
+    "chunkId": 5,
+    "rawText": "Duplikata (Yeniden Düzenleme)\r\nMADDE 12-(1) Diplomanın yırtılması, kullanılamayacak kadar tahribat görmesi veya kaybolması hallerinde mezun olan kişi dilekçe ile müracaat eder ve \"Duplikata\" (kopya) düzenlenir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mezuniyet_belgeleri.txt",
+    "chunkId": 6,
+    "rawText": "Diploma Eki\r\nMADDE 16 (1) Diploma Eki, orijinal diplomada adı belirtilen kişinin başarılı olduğu programın yapı, düzey, içerik ve statüsünü tarif etmek üzere verilir. Diploma ile birlikte ücretsiz verilir, diploma yerine kullanılamaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "mezuniyet_belgeleri.txt",
+    "chunkId": 7,
+    "rawText": "Yandal Sertifikası\r\nMADDE 19-(1) Yandal Programı tamamlansa dahi öğrenci anadal programından mezun olmadan yandal mezuniyet işlemleri yapılmaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "Onlisans_Lisans_Yatay_Gecis_Yönergesi.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ ÖNLİSANS VE LİSANS PROGRAMLARI YATAY GEÇİŞ YÖNERGESİ",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "Onlisans_Lisans_Yatay_Gecis_Yönergesi.txt",
+    "chunkId": 1,
+    "rawText": "BİRİNCİ BÖLÜM: Amaç, Kapsam, Dayanak ve Tanımlar\r\nMADDE 1 (1) Bu Yönergenin amacı, önlisans ve lisans düzeyindeki öğrencilerin Marmara Üniversitesindeki programlara kurum içi, kurumlar arası, yurt dışından yatay geçiş ve Merkezi Taban Puanlı Yatay Geçişe ilişkin usul ve esasları düzenlemektir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "Onlisans_Lisans_Yatay_Gecis_Yönergesi.txt",
+    "chunkId": 2,
+    "rawText": "İKİNCİ BÖLÜM: Kurumlar Arası Yatay Geçiş\r\nMADDE 5 - (1) Üniversite diploma programlarına diğer yükseköğretim kurumlarının aynı düzeydeki eş değer diploma programlarından YÖK tarafından yayınlanan kontenjanlar dahilinde yatay geçiş yapılır.\r\nMADDE 6 - (1) Önlisans programları ile lisans programları arasında yatay geçiş başvurusu yapılmaz.\r\n(2) Hazırlık sınıfına, önlisans programlarının ilk ve son yarıyılına, lisans programlarının ilk iki ve son iki yarıyılına yatay geçiş yapılamaz.\r\nMADDE 7 - (2) Öğrencinin GANO\u0027sunun 4,00\u0027lük sistemde en az 3,00; yüzlük sistemde en az 75 olması gerekir.\r\n(5) Başvuru yapacağı yarıyıla kadar müfredatındaki tüm dersleri almış ve başarıyla tamamlamış olması gerekir. Alttan dersi olan başvuramaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "Onlisans_Lisans_Yatay_Gecis_Yönergesi.txt",
+    "chunkId": 3,
+    "rawText": "ÜÇÜNCÜ BÖLÜM: Kurum İçi Yatay Geçiş\r\nMADDE 12 (1) Üniversite içinde eş değer düzeyde diploma programlarına kontenjan dahilinde geçiş yapılabilir.\r\n(6) Önlisans programları ile lisans programları arasında yatay geçiş yapılamaz.\r\nMADDE 13 - (2) GANO\u0027sunun en az 3,00 olması gerekir.\r\n(3) Merkezi yerleştirme puanının, geçmek istediği programın yurt içindeki en düşük taban puanından az olmaması şartı aranır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "Onlisans_Lisans_Yatay_Gecis_Yönergesi.txt",
+    "chunkId": 4,
+    "rawText": "DÖRDÜNCÜ BÖLÜM: Yurt Dışından Yatay Geçiş\r\nMADDE 19 - (2) GANO\u0027sunun 4,00\u0027lük sistemde en az 3,00, yüzlük sistemde en az 75 olması gerekir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "Onlisans_Lisans_Yatay_Gecis_Yönergesi.txt",
+    "chunkId": 5,
+    "rawText": "BEŞİNCİ BÖLÜM: Merkezî Yerleştirme Puanıyla Yatay Geçiş (Ek Madde-1)\r\nMADDE 24 - (1) Kontenjan, ÖSYS Kılavuzunda öngörülen öğrenci kontenjanının %30\u0027u kadardır.\r\nMADDE 25 - (2) Öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanının, geçmek istediği diploma programının taban puanına eşit veya ondan yüksek olması gerekir.\r\n(5) Öğrenciler bu madde kapsamında sadece bir defa yatay geçiş yapabilir. Ancak geldikleri programa geri dönebilirler.\r\n(11) Öğrencinin kayıt yaptırdığı yıl, geçmek istediği program öğrenci almamışsa (taban puanı oluşmamışsa) geçiş yapılamaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "Onlisans_Lisans_Yatay_Gecis_Yönergesi.txt",
+    "chunkId": 6,
+    "rawText": "ALTINCI BÖLÜM: Diğer Yükseköğretim Kurumlarından Yatay Geçiş\r\nMADDE 13-(1) Milli Savunma Bakanlığı ve İçişleri Bakanlığına bağlı kurumlardan yatay geçiş yapılabilir.\r\n(2) Disiplinsizlik nedeniyle ilişiği kesilenler başvuramaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "Onlisans_Lisans_Yatay_Gecis_Yönergesi.txt",
+    "chunkId": 7,
+    "rawText": "YEDİNCİ BÖLÜM: Özel Durumlar\r\nMADDE 30 (1) Kamu hizmeti nedeniyle atanma durumunda (anne/baba tayini) kontenjan aranmaksızın nakil yapılabilir (Puan şartını sağlamak kaydıyla).\r\n(3) Yabancı diplomat çocukları kontenjan şartı aranmaksızın değerlendirilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "staj.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ MÜHENDİSLİK FAKÜLTESİ ÖĞRENCİ STAJ YÖNERGESİ",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "staj.txt",
+    "chunkId": 1,
+    "rawText": "Amaç ve Kapsam\r\nMADDE 1 (1) Bu Yönergenin amacı, Marmara Üniversitesi Mühendislik Fakültesi öğrencilerinin öğrenim süresince yapmakla yükümlü oldukları staj çalışmalarının ilkelerini belirlemektir.\r\n(3) Staj yapan öğrenciler Üniversite tarafından iş kazası ve meslek hastalıkları sigortası kapsamında sigortalanırlar.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "staj.txt",
+    "chunkId": 2,
+    "rawText": "Zorunlu Staj\r\nMADDE 5-(1) Öğrencilerin eğitimleri sırasında en az 60 iş günü staj yapmaları gerekir.\r\n(2) Staj süresi, en az 20 iş günü, en çok 40 iş günü olmak üzere birkaç döneme bölünebilir ve en az iki işyerinde tamamlanır.\r\n(3) Öğrenciler, 4 üncü yarıyıldan sonra staj yaparlar.\r\n(4) Resmi tatil ilan edilen günlerde staj yapılmaz. Cumartesi günü çalışılan işyerlerinde Cumartesi de iş günü sayılır (belgelenmek kaydıyla).\r\n(5) Stajlar yaz tatilinde ve/veya 10 iş günü sığdığı takdirde yarıyıl tatilinde yapılabilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "staj.txt",
+    "chunkId": 3,
+    "rawText": "Uzun Dönem Stajı\r\nMADDE 6-(1) İş birliği anlaşması olan kurumlarla tüm eğitim dönemi boyunca devam eden uzun dönem stajları yapılabilir.\r\n(3) Uzun dönem stajları, zorunlu staj yerine sayılabilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "staj.txt",
+    "chunkId": 4,
+    "rawText": "Staj Yeri ve Başvurusu\r\nMADDE 7 - (1) Staj yeri bulma sorumluluğu öğrenciye aittir.\r\n(2) Öğrenci staja başlamadan önce Staj Komisyonunun yazılı onayını almak zorundadır. Onaysız stajlar geçersizdir.\r\n(3) Staj yapılacak kurumda, öğrencinin eğitim aldığı dalda en az bir mühendis bulunmalıdır.\r\n(8) Öğrenci, kurumdan aldığı kabul belgesi ile Bölüm Staj Komisyonuna başvurur.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "staj.txt",
+    "chunkId": 5,
+    "rawText": "Staj ile İlgili Belgeler\r\nMADDE 8 (1) Staj öncesinde: Staj sözleşmesi, iş güvenliği eğitimi belgesi ve onaylı staj başvuru formu, stajdan en az 15 gün önce teslim edilmelidir.\r\nStaj sonrasında: Staj değerlendirme formu ve staj raporu teslim edilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "staj.txt",
+    "chunkId": 6,
+    "rawText": "Stajın Yürütülmesi\r\nMADDE 9-(1) Stajlara devam zorunludur.\r\n(4) Öğrenci staj süresince zorunlu olmadıkça izin alamaz. İzin süresi staj süresinin %10\u0027unu aşamaz.\r\n(5) İzinsiz veya mazeretsiz 3 gün üst üste devamsızlık yapanın stajına son verilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "staj.txt",
+    "chunkId": 7,
+    "rawText": "Staj Raporları\r\nMADDE 10-(1) Staj raporları her işletme için ayrı hazırlanır ve ilgili bölümün eğitim dilinde yazılır.\r\n(3) Staj raporunun her sayfası işyeri yetkilisine onaylatılır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "staj.txt",
+    "chunkId": 8,
+    "rawText": "Stajın Değerlendirilmesi\r\nMADDE 11 - (2) Staj Değerlendirme Formu, işyeri yetkilisi tarafından doldurulur, imzalanır ve mühürlenir.\r\n(5) Staj raporlarını zamanında teslim etmeyen öğrencinin stajı geçersiz sayılır.\r\n(6) Stajlar \"Başarılı\" veya \"Başarısız\" olarak değerlendirilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "staj.txt",
+    "chunkId": 9,
+    "rawText": "Mezuniyet\r\nMADDE 13-(1) Mezun olabilmek için stajların başarı ile tamamlanması gerekir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "tek_ders_sınavı.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ TEK DERS SINAVI BİLGİLERİ",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "tek_ders_sınavı.txt",
+    "chunkId": 1,
+    "rawText": "Tek Ders Sınavı\r\nTek ders sınavına katılabilme koşulu nedir?\r\nMezuniyeti için azami öğrenim süresini kullanmış yada kullanmamış öğrencilerden, devam şartını yerine getirmiş olduğu tek dersten sorumluluğu kalan veya mezuniyeti için GANO’ sunun en az 2,00 olma şartı hariç tüm gerekleri yerine getirmiş öğrencilere; bu sınav sonucu alacağı notun katkısıyla GANO’ sunu en az 2,00 düzeyine çekebilecek durumda olması koşuluyla, yarıyıl/yıl sonunda yalnızca bir dersten tek ders sınav hakkı tanınır. Tek ders sınav günü akademik takvimde belirtilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "tek_ders_sınavı.txt",
+    "chunkId": 2,
+    "rawText": "Tek ders sınavından aldığım not nasıl değerlendirilir?\r\nTek ders sınavında alınan not tek bir not olarak doğrudan dönüşüm sistemine göre belirlenir. Başarısızlık halinde, ders sonraki yarıyılda/yılda tekrarlanır veya öğrenci, akademik takvimde belirtilen sonraki tek ders sınavına alınır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yaz_okulu.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ YAZ OKULU YÖNERGESİ",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yaz_okulu.txt",
+    "chunkId": 1,
+    "rawText": "Amaç ve Kapsam\r\nMADDE 1- (1) Bu yönergenin amacı, Marmara Üniversitesi bünyesinde yaz aylarında uygulanacak olan eğitim-öğretim programlarının usul ve esaslarını düzenlemektir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yaz_okulu.txt",
+    "chunkId": 2,
+    "rawText": "Süre\r\nMADDE 6- (1) Yaz okulunun süresi, sınavlar dâhil olmak üzere yedi haftadan az olamaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yaz_okulu.txt",
+    "chunkId": 3,
+    "rawText": "Derslerin Açılması\r\nMADDE 8- (3) Yıllık sistemde eğitim veren birimlerde yaz okulu açılmaz.\r\n(5) Yaz okulunda bir ders, kaydolan öğrenci sayısının yetersiz olması halinde açılmaz. Öğrenci sayısının 50\u0027den az olması durumunda ders gruplara bölünmez.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yaz_okulu.txt",
+    "chunkId": 4,
+    "rawText": "Başvuru ve Ders Alma Esasları\r\nMADDE 9- (2) Yaz okulunda öğrenciler; alt yarıyıllara ait hiç almadıkları, alıp da başarısız oldukları (FF, FD) veya GANO\u0027larını yükseltmek istedikleri DD, DC notlu dersleri alabilir. S notu ve CC ve üzeri notlarla başarılmış dersler tekrar edilmez.\r\n(3) Başka Üniversiteden Ders Alma: Öğrencinin kaydolmak istediği dersler Marmara Üniversitesi\u0027nde açılmamışsa, içerik ve kredi/AKTS uyumu şartıyla ve birim yönetim kurulu onayıyla başka üniversitelerden ders alınabilir. Toplamda en fazla 5 ders alınabilir.\r\n(4) Yabancı dil hazırlık sınıfına kayıtlı öğrenciler yaz okulundan ders alamaz (Yabancı Diller Yüksekokulu yaz okulu hariç).\r\n(5) GANO\u0027su en az 3,00 olan öğrenciler üst yarıyıllardan ders alabilir.\r\n(9) Yaz okulunda, dersler başladıktan sonra kayıt dondurma, ders ekleme, ders değiştirme ve ders bırakma işlemi yapılmaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yaz_okulu.txt",
+    "chunkId": 5,
+    "rawText": "Devam ve Başarı Durumu\r\nMADDE 10-(1) Yaz okulunda derslere devam zorunludur. Daha önce devam koşulu sağlanmış olsa bile yaz okulunda devam zorunluluğu kalkmaz.\r\n(2) Yaz okulunda en az bir ara sınav ve en az bir yarıyıl sonu sınavı yapılır.\r\n(4) Yaz okulunda alınan derslerin kredisi GANO\u0027ya katılır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ SINAV VE BAŞARI DEĞERLENDİRME YÖNERGESİ",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 1,
+    "rawText": "Amaç ve kapsam\r\nMADDE 1-(1) Bu Yönerge, 24 Ağustos 2008 tarihli ve 26977 sayılı Resmi Gazete\u0027de yayımlanan Marmara Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği ile ... hükümlerine uygun olarak Marmara Üniversitesine bağlı fakülte, yüksekokul, meslek yüksekokulu ve enstitülerde yürütülen programlardaki sınav ve başarı değerlendirme esaslarını düzenler.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 2,
+    "rawText": "Tanımlar\r\nMADDE 2-(1) Bu Yönergede geçen;\r\na) Bağıl değerlendirme sistemi (BDS): Öğrencinin bir dersteki başarısının aynı derse kayıtlı diğer öğrencilerin başarı düzeylerine göre değerlendirilmesini,\r\nb) Bağıl değerlendirmeye katma limiti (BDKL): İlgili birim kurulu tarafından belirlenen; istatistiksel değerlendirmeye dâhil edilecek başarı notlarının 100 puan üzerinden alt sınırını,\r\nc) Başarı katsayısı: Harfli başarı notunun 0,00 ile 4,00 aralığındaki karşılığını,\r\nç) Başarı notu: 100 puan üzerinden, öğrencinin bir dersine ilişkin yarıyıl/yıl içi değerlendirmesi ve yarıyıl/yıl sonu sınavı notundan hesaplanan ağırlıklı notu,\r\nd) Başarı notu alt limiti (BNAL): İlgili birim kurulu tarafından belirlenen; bir dersten veya uygulamadan başarılı olmak için gerekli başarı notu alt sınır değerini,\r\nh) Doğrudan dönüşüm sistemi (DDS): Öğrencinin bir dersteki başarı notunun belirli bir ölçeğe göre harfli başarı notuna çevrilerek başarısının değerlendirilmesini,\r\no) Yarıyıl/yıl sonu sınavı alt limiti (YSSL): İlgili birim kurulu tarafından belirlenen; bir dersten veya uygulamadan başarılı olmak için gerekli yarıyıl/yıl sonu sınavı notu alt sınır değerini ifade eder.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 3,
+    "rawText": "Yarıyıl/yıl içi değerlendirmesi\r\nMADDE 3 (1) Bir ders için yarıyıl/yıl içi değerlendirme araçları ara sınav, ödev, proje, laboratuvar, uygulama ve diğer çalışmalardan oluşur.\r\n(5) Yarıyıl/yıl içi değerlendirmesinde belirlenmiş ara sınav(lar)ın başarı notuna toplam katkısı en az %20\u0027dir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 4,
+    "rawText": "Yarıyıl/yıl sonu sınavı\r\nMADDE 4-(1) Yarıyıl/yıl sonu sınavı 100 puan üzerinden notlandırılır.\r\n(2) Yarıyıl sonu sınavı notunun başarı notuna katkısı, Fen Bilimleri Enstitüsünde %50, diğer enstitülerde %60\u0027tır.\r\n(3) Yarıyıl/yıl sonu sınavının başarı notuna katkısı fakülte, yüksekokul ve meslek yüksekokullarında Birim Kurulları tarafından en az %40 en çok %60 olacak şekilde belirlenir.\r\n(6) Yarıyıl/yıl sonu sınavına ilişkin bir öğrencinin bir dersten veya uygulamadan başarı değerlendirmesi:\r\na) Bağıl değerlendirme sistemi uygulanmayan durumlarda; yarıyıl/yıl sonu sınavından 100 puan üzerinden, enstitülerin tezli veya tezsiz yüksek lisans programlarında en az 65; doktora veya sanatta yeterlik programlarında en az 75; fakülte, yüksekokul ve meslek yüksekokullarında en az 50 alamayan öğrenciler başarısız sayılırlar.\r\nb) Bağıl değerlendirme sistemi uygulanan durumlarda; yarıyıl/yıl sonu sınavından 100 puan üzerinden YSSL\u0027nin altında not alan öğrenciler başarısız sayılırlar.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 5,
+    "rawText": "Başarı notu\r\nMADDE 5 (1) Başarı notu; yarıyıl/yıl içi değerlendirmesi ve yarıyıl/yıl sonu sınavı notlarından hesaplanır.\r\n(2) Bağıl değerlendirme uygulanmayan durumlarda; bir dersten veya uygulamadan 100 puan üzerinden, enstitülerin tezli veya tezsiz yüksek lisans programlarında en az 65; doktora veya sanatta yeterlik programlarında en az 75; fakülte, yüksekokul ve meslek yüksekokullarında en az 50; yıl esasına göre eğitim-öğretim yapan birimlerde en az 60 başarı notu alamayan öğrenciler başarısız sayılır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 6,
+    "rawText": "Başarı değerlendirme yöntemi\r\nMADDE 6 (1) 100 üzerinden hesaplanmış olan başarı notunun harfli başarı notuna dönüştürülmesidir.\r\n(2) Başarı değerlendirmede üç farklı yöntemden biri esas alınır: Doğrudan dönüşüm sistemi (DDS), bağıl değerlendirme sistemi (BDS) veya dersin öğretim üyesinin/görevlisinin benimseyeceği diğer bir yöntem.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 7,
+    "rawText": "Doğrudan dönüşüm sistemi (DDS)\r\nMADDE 7-(1) Bağıl değerlendirme uygulanmayan derslerde, 100\u0027lük başarı notunu harfli başarı notuna çevirirken kullanılacak doğrudan dönüşüm sistemi Tablo 2\u0027de yer almaktadır.\r\nTablo 2: Doğrudan Dönüşüm Sistemi\r\n90-100: AA (4,00) Pekiyi\r\n85-89: BA (3,50) İyi-Pekiyi\r\n80-84: BB (3,00) İyi\r\n75-79: CB (2,50) Orta-İyi\r\n65-74: CC (2,00) Orta\r\n55-64: DC (1,50) Orta-Geçer\r\n50-54: DD (1,00) Geçer\r\n45-49: FD (0,50) Başarısız\r\n0-44: FF (0,00) Başarısız",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 8,
+    "rawText": "Bağıl değerlendirme sistemi (BDS) ve adımları\r\nMADDE 8-(1) BDS; bir öğrencinin başarısının, dersteki diğer öğrencilerin başarı düzeylerine göre değerlendirilmesidir.\r\n(3) Bağıl değerlendirmeye esas olacak üç sınır değer, YSSL, BNAL ve BDKL birimler tarafından belirlenir. 100 puan üzerinden; YSSL ve BNAL 35\u0027ten; BDKL 20\u0027den az olamaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 9,
+    "rawText": "Tek ders sınavı\r\nMADDE 12 (1) Mezuniyeti için azami öğrenim süresini kullanmamış önlisans veya lisans öğrencilerinden, devam şartını yerine getirmiş olduğu tek dersten sorumluluğu kalan veya mezuniyeti için GANO\u0027sunun en az 2,00 olma şartı hariç tüm gerekleri yerine getirmiş öğrencilere; bu sınav sonucu alacağı notun katkısıyla GANO\u0027sunu en az 2,00 düzeyine çekebilecek durumda olması koşuluyla, yarıyıl/yıl sonunda yalnızca bir dersten tek ders sınav hakkı tanınır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 10,
+    "rawText": "Harfli başarı notları\r\nMADDE 13-(3) Öğrencinin başarı durumuna ilişkin esaslar:\r\na) Fakülte, yüksekokul ve meslek yüksekokullarında AA, BA, BB, CB, CC, DC, DD ve S başarılı; FD, FF, FG, DZ ve U başarısız harf notlarıdır.\r\nd) FG (Yarıyıl/yıl sonu sınavına girmedi, başarısız): Derse devam ve uygulama ile ilgili koşulları yerine getirerek o dersin yarıyıl/yıl sonu sınavına girme hakkı olduğu halde sınavına girmeyen öğrencilerin ilgili dersleri için kullanılır ve öğrenci o dersten başarısız sayılır.\r\ne) DZ (Devamsız, başarısız): Derse devam ve uygulama ile ilgili koşulları yerine getirememiş, devamsızlık nedeniyle o dersin yarıyıl/yıl sonu sınavına girme hakkı olmayan öğrencilerin ilgili dersleri için kullanılır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 11,
+    "rawText": "İşaretler\r\nMADDE 14-(1) Tablo 6: İşaretler ve Açıklamaları\r\nR: Tekrar\r\nNC: Kredisiz\r\nTI: Transfer İç yatay geçiş\r\nTY: Transfer - Dış yatay geçiş\r\nTD: Transfer - Dikey geçiş\r\nM: Muafiyet sınavı ile muaf, kredisiz\r\nMK: Muafiyet sınavı ile muaf, kredili\r\nDP: Öğrenci değişim programı\r\nTK: Tek ders sınavı\r\nCY: Çift anadal programı / Yandal programı",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 12,
+    "rawText": "Dörtlük sistemdeki notların yüzlük sistemdeki eşdeğerliği\r\nMADDE 17-(1) Marmara Üniversitesi öğrencilerinin 4\u0027lük sistemdeki notların 100\u0027lük sistemdeki eşdeğerliği Tablo 12\u0027ye göre belirlenir.\r\n4.00 \u003d 100.00\r\n3.50 \u003d 87.50\r\n3.00 \u003d 82.50\r\n2.50 \u003d 77.50\r\n2.00 \u003d 70.00\r\n1.50 \u003d 60.00\r\n1.00 \u003d 52.50\r\n0.00 \u003d 0.00",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonerge_basarı_degerlendirme.txt",
+    "chunkId": 13,
+    "rawText": "Yürürlük\r\nMADDE 18-(1) Bu Yönerge yayımı tarihinde yürürlüğe girer.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonetmelik_onlisans_lisans.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ ÖNLİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonetmelik_onlisans_lisans.txt",
+    "chunkId": 1,
+    "rawText": "BİRİNCİ BÖLÜM: Amaç, Kapsam, Dayanak ve Tanımlar\r\nMADDE 1- (1) Bu Yönetmeliğin amacı ve kapsamı; Marmara Üniversitesine bağlı fakülte, yüksekokul ve meslek yüksekokullarının kayıt, eğitim-öğretim ve sınavlarında uyulacak esasları düzenlemektir.\r\nMADDE 2-(1) Bu Yönetmelik, 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 44 üncü maddelerine dayanılarak hazırlanmıştır.\r\nMADDE 3-(1) Tanımlar:\r\na) Bağıl Değerlendirme Sistemi (BDS): Öğrencinin bir dersteki başarısının aynı derse kayıtlı diğer öğrencilerin başarı düzeylerine göre değerlendirilmesini,\r\ne) Doğrudan Dönüşüm Sistemi (DDS): Öğrencinin bir dersteki başarı notunun belirli bir ölçeğe göre harfli başarı notuna çevrilerek başarısının değerlendirilmesini ifade eder.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonetmelik_onlisans_lisans.txt",
+    "chunkId": 2,
+    "rawText": "İKİNCİ BÖLÜM: Kayıt, Öğrenim Harcı ve Kimlik Kartı\r\nMADDE 4 (1) Üniversiteye kesin kayıt yaptırmaya hak kazanan öğrenci adayları, ilan edilen süreler içinde bizzat başvururlar. 18 yaşından gün almamış öğrenciler kaydını velisi ile birlikte yaptırmak zorundadır.\r\nMADDE 5 (1) Öğrenciler her yarıyıl/yıl akademik takvimde belirtilen süre içinde ders kaydı yaptırır. Ders kaydının tamamlanabilmesi için mali yükümlülüklerin yerine getirilmiş olması ve danışman onayı gerekir.\r\n(2) Ders kayıtlarını yaptırmayan öğrenciler ders alamazlar, sınavlara giremezler.\r\nMADDE 6(1) Öğrencilerin, her öğretim yılında, akademik takvimde belirtilen süreler içinde öğrenim harcını ödemeleri gerekir. Öğrenim harcını ödemeyen öğrenciler ders kaydı yaptıramaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonetmelik_onlisans_lisans.txt",
+    "chunkId": 3,
+    "rawText": "ÜÇÜNCÜ BÖLÜM: Eğitim - Öğretime İlişkin Esaslar\r\nMADDE 8 - (2) Eğitim-öğretim yılı en az yüz kırk gündür. Diş Hekimliği, Hukuk ve Tıp Fakültelerinde yıllık, diğer birimlerde yarıyıllık düzende eğitim-öğretim verilir.\r\nMADDE 10 (1) Azami süreler; iki yıllık önlisans programları için dört yıl, dört yıllık lisans programları için yedi yıl, beş veya altı yıl olan programlar için dokuz yıldır.\r\nMADDE 12 (1) Dersler; zorunlu dersler, ortak zorunlu dersler, yönelme/uzlanım dersleri, seçimlik dersler, önkoşullu dersler ve önkoşul dersleri olarak gruplandırılır.\r\n(2) Bir önkoşullu ders ile onu bağlayan önkoşul dersi arasında bağlantı şekilleri: Önkoşul dersinin başarılmış olması veya FD notunun sağlanmış olması veya birlikte alınıyor olmasıdır.\r\nMADDE 17-(1) Her öğrenciye bir öğretim üyesi/görevlisi danışman olarak atanır.\r\n(5) Öğrenci, yarıyıl/yıl kayıtlarının yapılması sırasında derslerini danışmanı ile birlikte düzenler ve dersler danışmanı tarafından onaylanmadıkça kesinleşmez.\r\nMADDE 18- (1) Öğrencilerin bir yarıyılda alabileceği derslerin toplam sayısı, yarıyıl başına ortalama ders sayısının üç fazlasını aşamaz. Mezuniyet aşamasında ilave en fazla üç ders verilebilir.\r\n(5) Sınamalı öğrenci: Yarıyıl başı GANO\u0027su 1,80\u0027in altında olan öğrencilerdir. Sınamalı öğrenciler öncelikle başarısız oldukları dersleri alırlar.\r\n(9) GANO\u0027su en az 3,00 olan öğrenciler üst yarıyıllardan ders alabilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonetmelik_onlisans_lisans.txt",
+    "chunkId": 4,
+    "rawText": "DÖRDÜNCÜ BÖLÜM: Değerlendirme ve Mezuniyet\r\nMADDE 19 (1) Derslere devam zorunluluğu: Teorik derslerin en az %70\u0027ine, uygulamalı derslerin ise en az %80\u0027ine devam etmiş olması gerekir.\r\nMADDE 20-(1) Her yarıyıl en az bir ara sınav ve bir yarıyıl sonu sınavı yapılır.\r\nMADDE 21-(1) Haklı ve geçerli nedenlerle sınavlara giremeyen öğrenciler, mazeretlerini 5 iş günü içinde bildirir. Mazereti kabul edilenler mazeret sınavına girer. Bütünleme sınavının mazereti yapılmaz.\r\nMADDE 23-(2) Başarı notu; yarıyıl içi ve yarıyıl sonu sınavı notlarından hesaplanır. Yarıyıl sonu sınavının katkısı en az %30 en çok %60\u0027tır.\r\n(4) Yarıyıl sonu sınavına girmeyen öğrenci başarısız sayılır.\r\nMADDE 25-(4) GANO\u0027su 3,00-3,49 arası Onur Öğrencisi; 3,50 ve üstü Yüksek Onur Öğrencisi olur.\r\nMADDE 26 (2) GANO yükseltmek için DD, DC notu alınan dersler tekrar edilebilir. CC ve üzeri not alınan dersler tekrar edilmez.\r\nMADDE 27 (1) Tek Ders Sınavı: Mezuniyet için tek dersten sorumluluğu kalan veya GANO\u0027sunu 2,00\u0027a çekebilecek öğrencilere tanınan haktır.\r\n(4) Üç Ders Sınavı: Hukuk Fakültesi öğrencileri için geçerlidir.\r\nMADDE 28- (1) GANO\u0027su 2,00 veya daha yüksek olan öğrenciler mezun olmaya hak kazanır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonetmelik_onlisans_lisans.txt",
+    "chunkId": 5,
+    "rawText": "BEŞİNCİ BÖLÜM: Kayıt Dondurulması ve Ayrılma\r\nMADDE 30- (1) Kayıt dondurma nedenleri: Sağlık, doğal afet, maddi sıkıntı, askerlik, tutukluluk.\r\nMADDE 31 - (1) Üniversiteden ayrılmak isteyen öğrenci dilekçeyle başvurur.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonetmelik_onlisans_lisans.txt",
+    "chunkId": 6,
+    "rawText": "ALTINCI BÖLÜM: Geçiş ve İntibak\r\nMADDE 34-(1) Yatay geçiş: Lisans programlarının ilk iki ve son iki yarıyılına geçiş başvurusu alınmaz.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "yonetmelik_onlisans_lisans.txt",
+    "chunkId": 7,
+    "rawText": "YEDİNCİ BÖLÜM: Çeşitli ve Son Hükümler\r\nMADDE 35 (1) Çift Anadal Programları (ÇAP): Lisans diploması verilen tüm programlar arasında açılabilir.\r\nMADDE 36 (1) Yandal Programları: İkinci bir lisans programında sertifika amaçlı eğitimdir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 0,
+    "rawText": "MARMARA ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI (ÇAP) YÖNERGESİ",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 1,
+    "rawText": "Amaç ve Kapsam\r\nMADDE 1 - (1) Bu Yönerge, Marmara Üniversitesi bünyesinde yer alan Ön Lisans ve Lisans düzeyindeki diploma programları arasında yapılacak Çift Anadal Programlarının uygulanması ile ilgili usul ve esasları düzenler.\r\nMADDE 2 - (1) Bu yönerge, öğrenci kabul ve kayıt işlemleri ile Çift Anadal Programı uygulamalarına ilişkin hükümleri kapsar.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 2,
+    "rawText": "Tanımlar\r\nMADDE 4 - (1) Çift Anadal Programı: Başarı şartını ve diğer koşulları sağlayan öğrencilerin aynı yükseköğretim kurumunun iki diploma programından eş zamanlı olarak ders alıp, iki ayrı diploma alabilmesini sağlayan programdır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 3,
+    "rawText": "Başvuru Koşulları\r\nMADDE 7 - (2) Başvuru Zamanı:",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 4,
+    "rawText": "Lisans programlarında: En erken 3. yarıyılın başında, en geç 5. yarıyılın başında (4 yıllıklar için).",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 5,
+    "rawText": "Ön lisans programlarında: En erken 2. yarıyılın başında, en geç 3. yarıyılın başında.\r\n(3) Başarı Şartı:",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 6,
+    "rawText": "Başvurduğu döneme kadar almakla yükümlü tüm dersleri başarıyla tamamlamış olması gerekir.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 7,
+    "rawText": "Başvuru sırasında GANO en az 3,25 olmalıdır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 8,
+    "rawText": "Başarı sıralaması itibarı ile sınıfının ilk %20\u0027lik diliminde bulunması gerekir.\r\n(a) İlk %20\u0027de değilse: GANO\u0027su en az 3,25 olan ancak ilk %20\u0027de olmayan öğrenciler, çift anadal yapacakları programın ilgili yıldaki taban puanına sahipseler başvurabilirler.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 9,
+    "rawText": "Kredi Yükü (AKTS)\r\nMADDE 5 - (4)",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 10,
+    "rawText": "Lisans ÇAP için her bir program 240 AKTS olmak zorundadır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 11,
+    "rawText": "Ön Lisans ÇAP için her bir program 120 AKTS olmak zorundadır.",
+    "startOffset": 0,
+    "endOffset": 0
+  },
+  {
+    "docId": "ÇAP.txt",
+    "chunkId": 12,
+    "rawText": "Mezuniyet\r\nMADDE 15 - (1) Ana Dal başarısı ve mezuniyeti, İkinci Ana Dalı etkilemez.\r\n(2) İkinci Ana Dal diploması, ancak Ana Dal programından mezun olunması halinde verilebilir.\r\n(3) Ana daldan mezun olup ÇAP\u0027ı en az 2.00 ortalama ile tamamlayan öğrenciye ikinci dalın diploması verilir.",
+    "startOffset": 0,
+    "endOffset": 0
+  }
+]

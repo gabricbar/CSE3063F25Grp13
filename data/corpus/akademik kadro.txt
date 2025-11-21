@@ -1,0 +1,111 @@
+Akademik Kadro - Öğretim Üyeleri
+
+Prof. Dr. Haluk Bahri TOPÇUOĞLU (Bölüm Başkanı)
+PhD: Computer ENG.-Oregon University
+MS: Bilgisayar Müh.-Boğaziçi Üniversitesi
+BS: Bilgisayar Müh.-Boğaziçi Üniversitesi
+E-posta: haluk
+Ofis: Office:M2-217
+
+Prof. Dr. Ali Fuat ALKAYA
+PhD: Mühendislik Yönetimi: Marmara Üniversitesi
+MS: Bilgisayar Müh.-Marmara Üniversitesi
+BS: Matematik-Koç Üniversitesi
+E-posta: alfalkaya
+Ofis: Office:M2-249
+
+Prof. Dr. Borahan TÜMER
+PhD: Computer Eng.-Marquette University
+MS: Bilgisayar Müh.-İstanbul Teknik Üniversitesi
+BS: Bilgisayar Müh.-Marmara Üniversitesi
+E-posta: borahan.tumer
+Telefon: 3541
+Ofis: Office:M2-209
+
+Doç. Dr. Mustafa AĞAOĞLU
+PhD: Bilişim-Marmara Üniversitesi
+MS: Bilgisayar Müh.-Marmara Üniversitesi
+BS: Fizik-Boğaziçi Üniversitesi
+E-posta: agaoglu
+Telefon: 3540
+Ofis: Office:M2-221
+
+Doç. Dr. Murat Can GANİZ
+PhD: Computer Science-Lehigh University
+MS: Bilgisayar Müh.-Selçuk Üniversitesi
+BS: Bilgisayar Müh.-Selçuk Üniversitesi
+E-posta: murat.ganiz
+Telefon: 3529
+Ofis: Office:M2-251
+
+Doç. Dr. Ömer KORÇAK (Bölüm Başkan Yard.)
+PhD: Bilgisayar Müh.-Boğaziçi Üniversitesi
+MS: Bilgisayar Müh.-Boğaziçi Üniversitesi
+BS: Bilgisayar Müh.-Boğaziçi Üniversitesi
+E-posta: omer.korcak
+Telefon: 3543
+Ofis: Office:M2-208
+
+Doç. Dr. Öğr. Üyesi Ali Haydar ÖZER
+PhD: Bilgisayar Müh.-Boğaziçi Üniversitesi
+MS: Bilgisayar Müh.-Boğaziçi Üniversitesi
+BS: Bilgisayar Müh.-Boğaziçi Üniversitesi
+E-posta: haydar.ozer
+Telefon: 3533
+Ofis: Office:M2-253
+
+Doç. Dr. Müjdat SOYTÜRK
+PhD: Bilgisayar Müh.-İstanbul Teknik Üniversitesi
+MS: Bilgisayar Müh.-İstanbul Teknik Üniversitesi
+BS: Endüstri Müh.-Deniz Harp Okulu
+E-posta: mujdat.soyturk
+Telefon: 3542
+Ofis: Office:M2-204
+
+Dr. Öğr. Üyesi Mehmet BARAN
+PhD: Computer Eng.-Rensselear Polytechnic Institute
+MS: Computer Eng./Mathematics-Rensselear Polytechnic Institute
+BS: Bilgisayar Müh.-Boğaziçi Üniversitesi
+E-posta: mehmet.baran
+Telefon: 3538
+Ofis: Office:M2-233
+
+Dr. Öğr. Üyesi Betül Demiröz BOZ (Bölüm Başkan Yard.)
+PhD: Bilgisayar Müh.-Boğaziçi Üniversitesi
+MS: Bilgisayar Müh.-İstanbul Teknik Üniversitesi
+BS: Bilgisayar Müh.-Marmara Üniversitesi
+E-posta: betul.demiroz
+Telefon: 3534
+Ofis: Office:M2-234
+
+Dr. Öğr. Üyesi Fatma Corut ERGİN
+PhD: Bilgisayar Müh.-İstanbul Üniversitesi
+MS: Bilgisayar Müh.-Marmara Üniversitesi
+BS: Bilgisayar Müh.-Marmara Üniversitesi
+E-posta: fatma.ergin
+Telefon: 3536
+Ofis: Office:M2-229
+
+Dr. Öğr. Üyesi Sanem Arslan
+PhD: Bilgisayar Müh.-Boğaziçi Üniversitesi
+MS: Bilgisayar Müh.-Marmara Üniversitesi
+BS: Bilgisayar Müh.-Marmara Üniversitesi
+E-posta: sanem.arslan
+Telefon: 3550
+Ofis: Office:M2-230
+
+Dr. Öğr. Üyesi Kamil ERDAYANDI
+PhD: Computer Science-The University of Manchester
+MS: Elektronik Müh.-Sabancı Üniversitesi
+BS: E.Elektronik Müh.(ÇAP)-Yeditepe Üniversitesi
+E-posta: kamil.erdayandi
+Telefon: 3554
+Ofis: Office:M2-232
+
+Önceki Dönemlerde Görev Alan Öğretim Üyeleri
+Prof. Dr. Çiğdem Eroğlu Erdem
+Prof. Dr. Akif Eyler
+Prof. Dr. Ensar Gül
+Doç. Dr. Melih Kırlıdoğ
+Dr. Öğr. Üyesi Peter Schuller
+Dr. Öğr. Üyesi Mustafa Sakallı

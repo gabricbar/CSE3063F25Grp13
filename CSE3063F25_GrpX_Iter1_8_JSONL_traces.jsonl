@@ -1,0 +1,462 @@
+{"timestamp": 1763569873433, "stage": "START", "message": "Soru alındı: CSE3063 dersinin ön koşulu nedir? "}
+{"timestamp": 1763569873438, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763569873440, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, ön, koşulu]"}
+{"timestamp": 1763569873442, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 5"}
+{"timestamp": 1763569873451, "stage": "RERANK", "message": "En iyi skor: 15.0"}
+{"timestamp": 1763569873453, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763569873455, "stage": "END", "message": "Toplam süre: 21ms"}
+{"timestamp": 1763569912333, "stage": "START", "message": "Soru alındı: 'Murat Can Ganiz’in ofis numarası "}
+{"timestamp": 1763569912338, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763569912339, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofis, numarası, iletişim]"}
+{"timestamp": 1763569912341, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 9"}
+{"timestamp": 1763569912350, "stage": "RERANK", "message": "En iyi skor: 65.0"}
+{"timestamp": 1763569912352, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763569912354, "stage": "END", "message": "Toplam süre: 20ms"}
+{"timestamp": 1763569983008, "stage": "START", "message": "Soru alındı: Murat Can Ganiz ofisi nerede?"}
+{"timestamp": 1763569983016, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763569983017, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganiz, ofisi, ofis, iletişim]"}
+{"timestamp": 1763569983020, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 9"}
+{"timestamp": 1763569983029, "stage": "RERANK", "message": "En iyi skor: 85.0"}
+{"timestamp": 1763569983030, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763569983032, "stage": "END", "message": "Toplam süre: 24ms"}
+{"timestamp": 1763570091807, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763570091815, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763570091816, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763570091818, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 5"}
+{"timestamp": 1763570091825, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763570091827, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763570091829, "stage": "END", "message": "Toplam süre: 21ms"}
+{"timestamp": 1763570247264, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763570247271, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763570247273, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763570247276, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 5"}
+{"timestamp": 1763570247283, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763570247285, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763570247287, "stage": "END", "message": "Toplam süre: 22ms"}
+{"timestamp": 1763570444028, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763570444035, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763570444036, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763570444038, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 5"}
+{"timestamp": 1763570444044, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763570444046, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763570444048, "stage": "END", "message": "Toplam süre: 19ms"}
+{"timestamp": 1763570469381, "stage": "START", "message": "Soru alındı: Zorunlu staj süresi en az kaç gündür?"}
+{"timestamp": 1763570469382, "stage": "INTENT", "message": "Tespit edilen niyet: POLICY_FAQ"}
+{"timestamp": 1763570469383, "stage": "QUERY", "message": "Arama terimleri: [zorunlu, staj, süresi, en, az, gündür]"}
+{"timestamp": 1763570469384, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 13"}
+{"timestamp": 1763570469386, "stage": "RERANK", "message": "En iyi skor: 108.0"}
+{"timestamp": 1763570469388, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763570469388, "stage": "END", "message": "Toplam süre: 7ms"}
+{"timestamp": 1763570659522, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763570659528, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763570659529, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763570659531, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 5"}
+{"timestamp": 1763570659538, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763570659540, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763570659542, "stage": "END", "message": "Toplam süre: 19ms"}
+{"timestamp": 1763570676697, "stage": "START", "message": "Soru alındı: Zorunlu staj süresi en az kaç gündür?"}
+{"timestamp": 1763570676698, "stage": "INTENT", "message": "Tespit edilen niyet: POLICY_FAQ"}
+{"timestamp": 1763570676699, "stage": "QUERY", "message": "Arama terimleri: [zorunlu, staj, süresi, en, az, gündür]"}
+{"timestamp": 1763570676700, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 13"}
+{"timestamp": 1763570676702, "stage": "RERANK", "message": "En iyi skor: 108.0"}
+{"timestamp": 1763570676704, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763570676704, "stage": "END", "message": "Toplam süre: 7ms"}
+{"timestamp": 1763570695193, "stage": "START", "message": "Soru alındı: Zorunlu staj süresi en az kaç gündür?"}
+{"timestamp": 1763570695198, "stage": "INTENT", "message": "Tespit edilen niyet: POLICY_FAQ"}
+{"timestamp": 1763570695199, "stage": "QUERY", "message": "Arama terimleri: [zorunlu, staj, süresi, en, az, gündür]"}
+{"timestamp": 1763570695201, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 13"}
+{"timestamp": 1763570695207, "stage": "RERANK", "message": "En iyi skor: 108.0"}
+{"timestamp": 1763570695210, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763570695213, "stage": "END", "message": "Toplam süre: 18ms"}
+{"timestamp": 1763575502514, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763575502523, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763575502525, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763575502527, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 5"}
+{"timestamp": 1763575502534, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763575502536, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763575502538, "stage": "END", "message": "Toplam süre: 23ms"}
+{"timestamp": 1763575541176, "stage": "START", "message": "Soru alındı: Murat Can Ganiz ofisi nerede?"}
+{"timestamp": 1763575541176, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763575541177, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganiz, ofisi, ofis, iletişim]"}
+{"timestamp": 1763575541178, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 9"}
+{"timestamp": 1763575541182, "stage": "RERANK", "message": "En iyi skor: 85.0"}
+{"timestamp": 1763575541183, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763575541183, "stage": "END", "message": "Toplam süre: 7ms"}
+{"timestamp": 1763575565211, "stage": "START", "message": "Soru alındı: Zorunlu staj süresi en az kaç gündür?"}
+{"timestamp": 1763575565212, "stage": "INTENT", "message": "Tespit edilen niyet: POLICY_FAQ"}
+{"timestamp": 1763575565213, "stage": "QUERY", "message": "Arama terimleri: [zorunlu, staj, süresi, en, az, gündür]"}
+{"timestamp": 1763575565213, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 13"}
+{"timestamp": 1763575565216, "stage": "RERANK", "message": "En iyi skor: 108.0"}
+{"timestamp": 1763575565216, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763575565217, "stage": "END", "message": "Toplam süre: 6ms"}
+{"timestamp": 1763575595068, "stage": "START", "message": "Soru alındı: Öğrencilere kaç dersten tek ders sınav hakkı tanınır?"}
+{"timestamp": 1763575595069, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763575595070, "stage": "QUERY", "message": "Arama terimleri: [öğrencilere, dersten, tek, ders, sınav, hakkı, tanınır]"}
+{"timestamp": 1763575595071, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 35"}
+{"timestamp": 1763575595078, "stage": "RERANK", "message": "En iyi skor: 178.0"}
+{"timestamp": 1763575595078, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763575595079, "stage": "END", "message": "Toplam süre: 11ms"}
+{"timestamp": 1763576002259, "stage": "START", "message": "Soru alındı: CSE3063  dersi hangi dönemde yer almaktadır? "}
+{"timestamp": 1763576002260, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763576002260, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersi, dönemde, yer, almaktadır]"}
+{"timestamp": 1763576002261, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 12"}
+{"timestamp": 1763576002263, "stage": "RERANK", "message": "En iyi skor: 30.0"}
+{"timestamp": 1763576002264, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763576002264, "stage": "END", "message": "Toplam süre: 5ms"}
+{"timestamp": 1763576733746, "stage": "START", "message": "Soru alındı: CSE3063  dersi hangi dönemde yer almaktadır? "}
+{"timestamp": 1763576733753, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763576733754, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersi, dönemde, yer, almaktadır]"}
+{"timestamp": 1763576733756, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 12"}
+{"timestamp": 1763576733766, "stage": "RERANK", "message": "En iyi skor: 30.0"}
+{"timestamp": 1763576733768, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763576733769, "stage": "END", "message": "Toplam süre: 23ms"}
+{"timestamp": 1763576764613, "stage": "START", "message": "Soru alındı: Murat Can Ganiz'in ofisi nerede?"}
+{"timestamp": 1763576764614, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763576764615, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofisi, ofis, iletişim]"}
+{"timestamp": 1763576764615, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 9"}
+{"timestamp": 1763576764619, "stage": "RERANK", "message": "En iyi skor: 65.0"}
+{"timestamp": 1763576764620, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763576764620, "stage": "END", "message": "Toplam süre: 7ms"}
+{"timestamp": 1763577197977, "stage": "START", "message": "Soru alındı: CSE3063  dersi hangi dönemde yer almaktadır? "}
+{"timestamp": 1763577197985, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763577197987, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersi, dönemde, yer, almaktadır]"}
+{"timestamp": 1763577197989, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 12"}
+{"timestamp": 1763577197997, "stage": "RERANK", "message": "En iyi skor: 30.0"}
+{"timestamp": 1763577197999, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763577198000, "stage": "END", "message": "Toplam süre: 23ms"}
+{"timestamp": 1763577212277, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır?"}
+{"timestamp": 1763577212278, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763577212279, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763577212280, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 5"}
+{"timestamp": 1763577212281, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763577212282, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763577212282, "stage": "END", "message": "Toplam süre: 5ms"}
+{"timestamp": 1763577235686, "stage": "START", "message": "Soru alındı: Murat Can Ganiz'in ofisi nerede?"}
+{"timestamp": 1763577235687, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763577235688, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofisi, ofis, iletişim]"}
+{"timestamp": 1763577235688, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 9"}
+{"timestamp": 1763577235692, "stage": "RERANK", "message": "En iyi skor: 65.0"}
+{"timestamp": 1763577235693, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763577235693, "stage": "END", "message": "Toplam süre: 7ms"}
+{"timestamp": 1763578393452, "stage": "START", "message": "Soru alındı: Mrat Can Ganiz'in ofisi nerede?"}
+{"timestamp": 1763578393461, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763578393463, "stage": "QUERY", "message": "Arama terimleri: [mrat, can, ganizin, ofisi, ofis, iletişim]"}
+{"timestamp": 1763578393465, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 9"}
+{"timestamp": 1763578393474, "stage": "RERANK", "message": "En iyi skor: 40.0"}
+{"timestamp": 1763578393475, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763578393477, "stage": "END", "message": "Toplam süre: 24ms"}
+{"timestamp": 1763578494762, "stage": "START", "message": "Soru alındı: Murat Can Ganiz'in ofisi nerede?"}
+{"timestamp": 1763578494771, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763578494772, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofisi, ofis, iletişim]"}
+{"timestamp": 1763578494774, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 9"}
+{"timestamp": 1763578494782, "stage": "RERANK", "message": "En iyi skor: 65.0"}
+{"timestamp": 1763578494784, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763578494785, "stage": "END", "message": "Toplam süre: 23ms"}
+{"timestamp": 1763578569184, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır?"}
+{"timestamp": 1763578569185, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763578569186, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763578569187, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 5"}
+{"timestamp": 1763578569188, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763578569189, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763578569190, "stage": "END", "message": "Toplam süre: 6ms"}
+{"timestamp": 1763578992175, "stage": "START", "message": "Soru alındı: Murat Can Ganiz'in ofisi nerede?"}
+{"timestamp": 1763578992181, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763578992183, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofisi, ofis, iletişim]"}
+{"timestamp": 1763578992184, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 9"}
+{"timestamp": 1763578992199, "stage": "RERANK", "message": "En iyi skor: 65.0"}
+{"timestamp": 1763578992203, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763578992206, "stage": "END", "message": "Toplam süre: 30ms"}
+{"timestamp": 1763579009897, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır?"}
+{"timestamp": 1763579009898, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763579009899, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763579009900, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 5"}
+{"timestamp": 1763579009901, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763579009902, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763579009903, "stage": "END", "message": "Toplam süre: 6ms"}
+{"timestamp": 1763579117223, "stage": "START", "message": "Soru alındı: Murat Can Ganiz'in ofisi nerede?"}
+{"timestamp": 1763579117232, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763579117234, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofisi, ofis, iletişim]"}
+{"timestamp": 1763579117236, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 9"}
+{"timestamp": 1763579117246, "stage": "RERANK", "message": "En iyi skor: 65.0"}
+{"timestamp": 1763579117247, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763579117249, "stage": "END", "message": "Toplam süre: 25ms"}
+{"timestamp": 1763579161277, "stage": "START", "message": "Soru alındı: Murat Can Ganiz’in ofis numarası "}
+{"timestamp": 1763579161289, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763579161290, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofis, numarası, iletişim]"}
+{"timestamp": 1763579161291, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 9"}
+{"timestamp": 1763579161301, "stage": "RERANK", "message": "En iyi skor: 65.0"}
+{"timestamp": 1763579161302, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763579161304, "stage": "END", "message": "Toplam süre: 27ms"}
+{"timestamp": 1763651443078, "stage": "START", "message": "Soru alındı: Murat Can Ganiz’in ofis numarası "}
+{"timestamp": 1763651443118, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763651443120, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofis, numarası, iletişim]"}
+{"timestamp": 1763651443126, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 16"}
+{"timestamp": 1763651443139, "stage": "RERANK", "message": "En iyi skor: 25.0"}
+{"timestamp": 1763651443143, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763651443147, "stage": "END", "message": "Toplam süre: 68ms"}
+{"timestamp": 1763651474926, "stage": "START", "message": "Soru alındı: nedir?CSE3063 dersinin kredisi kaçtır? CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763651474927, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763651474928, "stage": "QUERY", "message": "Arama terimleri: [nedircse3063, dersinin, kredisi, kaçtır, cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763651474929, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 4"}
+{"timestamp": 1763651474930, "stage": "RERANK", "message": "En iyi skor: 25.0"}
+{"timestamp": 1763651474931, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763651474931, "stage": "END", "message": "Toplam süre: 5ms"}
+{"timestamp": 1763651525258, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763651525280, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763651525283, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763651525285, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 4"}
+{"timestamp": 1763651525289, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763651525291, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763651525294, "stage": "END", "message": "Toplam süre: 35ms"}
+{"timestamp": 1763651557608, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763651557622, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763651557624, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763651557628, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 4"}
+{"timestamp": 1763651557635, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763651557638, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763651557641, "stage": "END", "message": "Toplam süre: 33ms"}
+{"timestamp": 1763651613189, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763651613206, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763651613211, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763651613214, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 4"}
+{"timestamp": 1763651613223, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763651613226, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763651613235, "stage": "END", "message": "Toplam süre: 38ms"}
+{"timestamp": 1763651949506, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763651949514, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763651949516, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763651949518, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 4"}
+{"timestamp": 1763651949524, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763651949525, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763651949528, "stage": "END", "message": "Toplam süre: 21ms"}
+{"timestamp": 1763651970897, "stage": "START", "message": "Soru alındı: Murat Can Ganiz’in ofis numarası "}
+{"timestamp": 1763651970899, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763651970900, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofis, numarası, iletişim]"}
+{"timestamp": 1763651970901, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 16"}
+{"timestamp": 1763651970908, "stage": "RERANK", "message": "En iyi skor: 25.0"}
+{"timestamp": 1763651970908, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763651970909, "stage": "END", "message": "Toplam süre: 12ms"}
+{"timestamp": 1763651990223, "stage": "START", "message": "Soru alındı: nedir?CSE3063 dersinin ön koşulu nedir? "}
+{"timestamp": 1763651990224, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763651990225, "stage": "QUERY", "message": "Arama terimleri: [nedircse3063, dersinin, ön, koşulu]"}
+{"timestamp": 1763651990225, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 3"}
+{"timestamp": 1763651990226, "stage": "RERANK", "message": "En iyi skor: 15.0"}
+{"timestamp": 1763651990227, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763651990228, "stage": "END", "message": "Toplam süre: 5ms"}
+{"timestamp": 1763652016814, "stage": "START", "message": "Soru alındı: Murat Can Ganiz'in ofisi nerede?"}
+{"timestamp": 1763652016817, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763652016818, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofisi, ofis, iletişim]"}
+{"timestamp": 1763652016819, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 16"}
+{"timestamp": 1763652016820, "stage": "RERANK", "message": "En iyi skor: 25.0"}
+{"timestamp": 1763652016821, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652016822, "stage": "END", "message": "Toplam süre: 8ms"}
+{"timestamp": 1763652337315, "stage": "START", "message": "Soru alındı: Murat Can Ganiz’in ofis numarası "}
+{"timestamp": 1763652337333, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763652337335, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofis, numarası, iletişim]"}
+{"timestamp": 1763652337339, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 14"}
+{"timestamp": 1763652337360, "stage": "RERANK", "message": "En iyi skor: 45.0"}
+{"timestamp": 1763652337361, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652337370, "stage": "END", "message": "Toplam süre: 51ms"}
+{"timestamp": 1763652352524, "stage": "START", "message": "Soru alındı: nedir?CSE3063 dersinin ön koşulu nedir? "}
+{"timestamp": 1763652352525, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763652352526, "stage": "QUERY", "message": "Arama terimleri: [nedircse3063, dersinin, ön, koşulu]"}
+{"timestamp": 1763652352527, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 3"}
+{"timestamp": 1763652352528, "stage": "RERANK", "message": "En iyi skor: 15.0"}
+{"timestamp": 1763652352529, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652352529, "stage": "END", "message": "Toplam süre: 5ms"}
+{"timestamp": 1763652379273, "stage": "START", "message": "Soru alındı: CSE3063  dersi hangi dönemde yer almaktadır? "}
+{"timestamp": 1763652379274, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763652379275, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersi, dönemde, yer, almaktadır]"}
+{"timestamp": 1763652379276, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 10"}
+{"timestamp": 1763652379278, "stage": "RERANK", "message": "En iyi skor: 25.0"}
+{"timestamp": 1763652379278, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652379279, "stage": "END", "message": "Toplam süre: 6ms"}
+{"timestamp": 1763652399331, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır?"}
+{"timestamp": 1763652399332, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763652399333, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dersinin, kredisi, kaçtır]"}
+{"timestamp": 1763652399333, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 4"}
+{"timestamp": 1763652399335, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763652399335, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652399336, "stage": "END", "message": "Toplam süre: 5ms"}
+{"timestamp": 1763652419272, "stage": "START", "message": "Soru alındı: Öğrencilere kaç dersten tek ders sınav hakkı tanınır?"}
+{"timestamp": 1763652419273, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763652419274, "stage": "QUERY", "message": "Arama terimleri: [öğrencilere, dersten, tek, ders, sınav, hakkı, tanınır]"}
+{"timestamp": 1763652419275, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 25"}
+{"timestamp": 1763652419279, "stage": "RERANK", "message": "En iyi skor: 178.0"}
+{"timestamp": 1763652419279, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652419280, "stage": "END", "message": "Toplam süre: 8ms"}
+{"timestamp": 1763652602193, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763652602204, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763652602205, "stage": "QUERY", "message": "Arama terimleri: [cse3063, kredisi, kaçtır]"}
+{"timestamp": 1763652602211, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 3"}
+{"timestamp": 1763652602224, "stage": "RERANK", "message": "En iyi skor: 10.0"}
+{"timestamp": 1763652602229, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652602231, "stage": "END", "message": "Toplam süre: 37ms"}
+{"timestamp": 1763652613231, "stage": "START", "message": "Soru alındı: CSE3063 dersinin ön koşulu nedir? "}
+{"timestamp": 1763652613233, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763652613233, "stage": "QUERY", "message": "Arama terimleri: [cse3063, ön, koşulu]"}
+{"timestamp": 1763652613234, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 4"}
+{"timestamp": 1763652613235, "stage": "RERANK", "message": "En iyi skor: 15.0"}
+{"timestamp": 1763652613236, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652613237, "stage": "END", "message": "Toplam süre: 6ms"}
+{"timestamp": 1763652749871, "stage": "START", "message": "Soru alındı: CSE3063 dersinin ön koşulu nedir? "}
+{"timestamp": 1763652749885, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763652749887, "stage": "QUERY", "message": "Arama terimleri: [cse3063, ön, koşulu]"}
+{"timestamp": 1763652749893, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 4"}
+{"timestamp": 1763652749909, "stage": "RERANK", "message": "En iyi skor: 501.0"}
+{"timestamp": 1763652749911, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652749916, "stage": "END", "message": "Toplam süre: 42ms"}
+{"timestamp": 1763652762354, "stage": "START", "message": "Soru alındı: Murat Can Ganiz’in ofis numarası "}
+{"timestamp": 1763652762358, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763652762375, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganiz, in, ofis, numarası]"}
+{"timestamp": 1763652762377, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 13"}
+{"timestamp": 1763652762383, "stage": "RERANK", "message": "En iyi skor: 56.0"}
+{"timestamp": 1763652762383, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652762383, "stage": "END", "message": "Toplam süre: 29ms"}
+{"timestamp": 1763652774440, "stage": "START", "message": "Soru alındı: nedir?Öğrencilere kaç dersten tek ders sınav hakkı tanınır?"}
+{"timestamp": 1763652774440, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763652774441, "stage": "QUERY", "message": "Arama terimleri: [öğrencilere, dersten, tek, ders, sınav, hakkı, tanınır]"}
+{"timestamp": 1763652774442, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 25"}
+{"timestamp": 1763652774448, "stage": "RERANK", "message": "En iyi skor: 17.0"}
+{"timestamp": 1763652774449, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652774449, "stage": "END", "message": "Toplam süre: 9ms"}
+{"timestamp": 1763652788557, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır? "}
+{"timestamp": 1763652788558, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763652788559, "stage": "QUERY", "message": "Arama terimleri: [cse3063, kredisi, kaçtır]"}
+{"timestamp": 1763652788560, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 3"}
+{"timestamp": 1763652788561, "stage": "RERANK", "message": "En iyi skor: 501.0"}
+{"timestamp": 1763652788561, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652788562, "stage": "END", "message": "Toplam süre: 5ms"}
+{"timestamp": 1763652818959, "stage": "START", "message": "Soru alındı: CSE3063  dersi hangi dönemde yer almaktadır?"}
+{"timestamp": 1763652818959, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763652818960, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dönemde, yer, almaktadır]"}
+{"timestamp": 1763652818961, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 7"}
+{"timestamp": 1763652818961, "stage": "RERANK", "message": "En iyi skor: 501.0"}
+{"timestamp": 1763652818962, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652818962, "stage": "END", "message": "Toplam süre: 3ms"}
+{"timestamp": 1763652864459, "stage": "START", "message": "Soru alındı: Mustafa Ağaoğlu'nun ofisi nerede?"}
+{"timestamp": 1763652864460, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763652864461, "stage": "QUERY", "message": "Arama terimleri: [mustafa, ağaoğlu, nun, ofisi, ofis]"}
+{"timestamp": 1763652864462, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 14"}
+{"timestamp": 1763652864464, "stage": "RERANK", "message": "En iyi skor: 103.0"}
+{"timestamp": 1763652864464, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763652864465, "stage": "END", "message": "Toplam süre: 6ms"}
+{"timestamp": 1763662933746, "stage": "START", "message": "Soru alındı: Murat Ganizin ofisi nerde"}
+{"timestamp": 1763662933753, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763662933754, "stage": "QUERY", "message": "Arama terimleri: [murat, ganizin, ofisi, nerde, ofis]"}
+{"timestamp": 1763662933756, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 13"}
+{"timestamp": 1763662933769, "stage": "RERANK", "message": "En iyi skor: 103.0"}
+{"timestamp": 1763662933773, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763662933773, "stage": "END", "message": "Toplam süre: 28ms"}
+{"timestamp": 1763663517833, "stage": "START", "message": "Soru alındı: 	Murat Can Ganiz’in ofis numarası"}
+{"timestamp": 1763663517841, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763663517843, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganiz, in, ofis, numarası]"}
+{"timestamp": 1763663517846, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 13"}
+{"timestamp": 1763663517859, "stage": "RERANK", "message": "En iyi skor: 4006.0"}
+{"timestamp": 1763663517861, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763663517862, "stage": "END", "message": "Toplam süre: 29ms"}
+{"timestamp": 1763663530416, "stage": "START", "message": "Soru alındı: nedir?CSE3063 dersinin ön koşulu nedir?"}
+{"timestamp": 1763663530417, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763663530419, "stage": "QUERY", "message": "Arama terimleri: [cse3063, ön, koşulu]"}
+{"timestamp": 1763663530420, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 4"}
+{"timestamp": 1763663530421, "stage": "RERANK", "message": "En iyi skor: 3001.0"}
+{"timestamp": 1763663530423, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763663530423, "stage": "END", "message": "Toplam süre: 7ms"}
+{"timestamp": 1763663549488, "stage": "START", "message": "Soru alındı: CSE3063 dersi hangi dönemde yer almaktadır?"}
+{"timestamp": 1763663549489, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763663549489, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dönemde, yer, almaktadır]"}
+{"timestamp": 1763663549490, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 7"}
+{"timestamp": 1763663549491, "stage": "RERANK", "message": "En iyi skor: 3001.0"}
+{"timestamp": 1763663549493, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763663549493, "stage": "END", "message": "Toplam süre: 5ms"}
+{"timestamp": 1763663561241, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır?"}
+{"timestamp": 1763663561242, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763663561243, "stage": "QUERY", "message": "Arama terimleri: [cse3063, kredisi, kaçtır]"}
+{"timestamp": 1763663561244, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 3"}
+{"timestamp": 1763663561245, "stage": "RERANK", "message": "En iyi skor: 3001.0"}
+{"timestamp": 1763663561247, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763663561247, "stage": "END", "message": "Toplam süre: 6ms"}
+{"timestamp": 1763663569022, "stage": "START", "message": "Soru alındı: Öğrencilere kaç dersten tek ders sınav hakkı tanınır?"}
+{"timestamp": 1763663569023, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763663569024, "stage": "QUERY", "message": "Arama terimleri: [öğrencilere, dersten, tek, sınav, hakkı, tanınır]"}
+{"timestamp": 1763663569026, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 18"}
+{"timestamp": 1763663569030, "stage": "RERANK", "message": "En iyi skor: 6013.0"}
+{"timestamp": 1763663569031, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763663569031, "stage": "END", "message": "Toplam süre: 9ms"}
+{"timestamp": 1763663906060, "stage": "START", "message": "Soru alındı: Murat Can Ganiz’in ofis numarası"}
+{"timestamp": 1763663906065, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763663906069, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganiz, in, ofis, numarası]"}
+{"timestamp": 1763663906071, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 13"}
+{"timestamp": 1763663906081, "stage": "RERANK", "message": "En iyi skor: 4006.0"}
+{"timestamp": 1763663906083, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763663906084, "stage": "END", "message": "Toplam süre: 24ms"}
+{"timestamp": 1763663922511, "stage": "START", "message": "Soru alındı: nedir?CSE3063 dersinin ön koşulu nedir?"}
+{"timestamp": 1763663922512, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763663922513, "stage": "QUERY", "message": "Arama terimleri: [cse3063, ön, koşulu]"}
+{"timestamp": 1763663922514, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 4"}
+{"timestamp": 1763663922516, "stage": "RERANK", "message": "En iyi skor: 3001.0"}
+{"timestamp": 1763663922517, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763663922518, "stage": "END", "message": "Toplam süre: 7ms"}
+{"timestamp": 1763663930569, "stage": "START", "message": "Soru alındı: CSE3063 dersi hangi dönemde yer almaktadır?"}
+{"timestamp": 1763663930570, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763663930571, "stage": "QUERY", "message": "Arama terimleri: [cse3063, dönemde, yer, almaktadır]"}
+{"timestamp": 1763663930572, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 7"}
+{"timestamp": 1763663930573, "stage": "RERANK", "message": "En iyi skor: 3001.0"}
+{"timestamp": 1763663930574, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763663930574, "stage": "END", "message": "Toplam süre: 5ms"}
+{"timestamp": 1763663937478, "stage": "START", "message": "Soru alındı: CSE3063 dersinin kredisi kaçtır?"}
+{"timestamp": 1763663937478, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763663937479, "stage": "QUERY", "message": "Arama terimleri: [cse3063, kredisi, kaçtır]"}
+{"timestamp": 1763663937479, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 3"}
+{"timestamp": 1763663937480, "stage": "RERANK", "message": "En iyi skor: 3001.0"}
+{"timestamp": 1763663937480, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763663937481, "stage": "END", "message": "Toplam süre: 3ms"}
+{"timestamp": 1763663944442, "stage": "START", "message": "Soru alındı: Öğrencilere kaç dersten tek ders sınav hakkı tanınır?"}
+{"timestamp": 1763663944443, "stage": "INTENT", "message": "Tespit edilen niyet: COURSE_INFO"}
+{"timestamp": 1763663944444, "stage": "QUERY", "message": "Arama terimleri: [öğrencilere, dersten, tek, sınav, hakkı, tanınır]"}
+{"timestamp": 1763663944445, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 18"}
+{"timestamp": 1763663944448, "stage": "RERANK", "message": "En iyi skor: 6013.0"}
+{"timestamp": 1763663944450, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763663944450, "stage": "END", "message": "Toplam süre: 8ms"}
+{"timestamp": 1763665504560, "stage": "START", "message": "Soru alındı: murat can ganizin ofis numarası kaç"}
+{"timestamp": 1763665504566, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763665504567, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofis, numarası]"}
+{"timestamp": 1763665504570, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 13"}
+{"timestamp": 1763665504583, "stage": "RERANK", "message": "En iyi skor: 54.0"}
+{"timestamp": 1763665504589, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763665504590, "stage": "END", "message": "Toplam süre: 30ms"}
+{"timestamp": 1763667601972, "stage": "START", "message": "Soru alındı: murat can ganizin ofis numarası kaçtır"}
+{"timestamp": 1763667601989, "stage": "INTENT", "message": "Tespit edilen niyet: STAFF_LOOKUP"}
+{"timestamp": 1763667601990, "stage": "QUERY", "message": "Arama terimleri: [murat, can, ganizin, ofis, numarası, kaçtır]"}
+{"timestamp": 1763667601992, "stage": "RETRIEVE", "message": "Bulunan parça sayısı: 13"}
+{"timestamp": 1763667602003, "stage": "RERANK", "message": "En iyi skor: 54.0"}
+{"timestamp": 1763667602007, "stage": "ANSWER", "message": "Cevap oluşturuldu."}
+{"timestamp": 1763667602007, "stage": "END", "message": "Toplam süre: 35ms"}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Öğrencilere", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: UNKNOWN", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: [öğrencilere]", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 3", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 10.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 41ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Öğrencilere", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: UNKNOWN", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: [öğrencilere]", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 3", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 10.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 10ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Murat", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: UNKNOWN", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: [murat]", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 1", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 20.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 10ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Murat", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: [murat, ofis]", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 13", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 30.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 14ms", "timingMs": 0}

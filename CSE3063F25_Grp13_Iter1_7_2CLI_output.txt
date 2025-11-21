@@ -1,0 +1,16 @@
+
+Q:
+CSE3063 dersinin ön koşulu nedir?
+
+A:
+Dönem (Junior - Güz)
+CSE3063 Object-Oriented Software Desg. (ECTS=5) - Önkoşul: CSE1242
+Sources: [ders_planı.txt:P5:0-0] 
+
+
+Q: Öğrencilere kaç dersten tek ders sınav hakkı tanınır?
+
+A: Tek Ders Sınavı
+Tek ders sınavına katılabilme koşulu nedir?
+Mezuniyeti için azami öğrenim süresini kullanmış yada kullanmamış öğrencilerden, devam şartını yerine getirmiş olduğu tek dersten sorumluluğu kalan veya mezuniyeti için GANO’ sunun en az 2,00 olma şartı hariç tüm gerekleri yerine getirmiş öğrencilere; bu sınav sonucu alacağı notun katkısıyla GANO’ sunu en az 2,00 düzeyine çekebilecek durumda olması koşuluyla, yarıyıl/yıl sonunda yalnızca bir dersten tek ders sınav hakkı tanınır. Tek ders sınav günü akademik takvimde belirtilir.
+Sources: [tek_ders_sınavı.txt:P1:0-0]

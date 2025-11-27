@@ -1,0 +1,7 @@
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Murat", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: UNKNOWN", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: [murat]", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 1", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 20.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 8ms", "timingMs": 0}

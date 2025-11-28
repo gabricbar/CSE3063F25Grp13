@@ -1,0 +1,7 @@
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: Tek ders sınavına kaç dersten girilir", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "19", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Mezuniyeti için azami öğrenim süresini kullanmış yada kullanmamış öğrencilerden, devam şartını yerine getirmiş olduğu tek dersten sorumluluğu kalan veya mezuniyeti için GANO’ sunun en az 2,00 olma şartı hariç tüm gerekleri yerine getirmiş öğrencilere; bu sınav sonucu alacağı notun katkısıyla GANO’ sunu en az 2,00 düzeyine çekebilecek durumda olması koşuluyla, yarıyıl/yıl sonunda yalnızca bir dersten tek ders sınav hakkı tanınır. Tek ders sınav günü akademik takvimde belirtilir.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "8ms", "timingMs": 0}

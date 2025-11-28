@@ -1,0 +1,7 @@
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: yaz okulu koşulları", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "UNKNOWN", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['yaz', 'okulu', 'koşulları']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "18", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "(4) Yabancı dil hazırlık sınıfına kayıtlı öğrenciler yaz okulundan ders alamaz (Yabancı Diller Yüksekokulu yaz okulu hariç).", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "10ms", "timingMs": 0}

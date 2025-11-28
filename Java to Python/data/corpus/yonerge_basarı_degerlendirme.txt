@@ -1,0 +1,87 @@
+MARMARA ÜNİVERSİTESİ SINAV VE BAŞARI DEĞERLENDİRME YÖNERGESİ
+
+Amaç ve kapsam
+MADDE 1-(1) Bu Yönerge, 24 Ağustos 2008 tarihli ve 26977 sayılı Resmi Gazete'de yayımlanan Marmara Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği ile ... hükümlerine uygun olarak Marmara Üniversitesine bağlı fakülte, yüksekokul, meslek yüksekokulu ve enstitülerde yürütülen programlardaki sınav ve başarı değerlendirme esaslarını düzenler.
+
+Tanımlar
+MADDE 2-(1) Bu Yönergede geçen;
+a) Bağıl değerlendirme sistemi (BDS): Öğrencinin bir dersteki başarısının aynı derse kayıtlı diğer öğrencilerin başarı düzeylerine göre değerlendirilmesini,
+b) Bağıl değerlendirmeye katma limiti (BDKL): İlgili birim kurulu tarafından belirlenen; istatistiksel değerlendirmeye dâhil edilecek başarı notlarının 100 puan üzerinden alt sınırını,
+c) Başarı katsayısı: Harfli başarı notunun 0,00 ile 4,00 aralığındaki karşılığını,
+ç) Başarı notu: 100 puan üzerinden, öğrencinin bir dersine ilişkin yarıyıl/yıl içi değerlendirmesi ve yarıyıl/yıl sonu sınavı notundan hesaplanan ağırlıklı notu,
+d) Başarı notu alt limiti (BNAL): İlgili birim kurulu tarafından belirlenen; bir dersten veya uygulamadan başarılı olmak için gerekli başarı notu alt sınır değerini,
+h) Doğrudan dönüşüm sistemi (DDS): Öğrencinin bir dersteki başarı notunun belirli bir ölçeğe göre harfli başarı notuna çevrilerek başarısının değerlendirilmesini,
+o) Yarıyıl/yıl sonu sınavı alt limiti (YSSL): İlgili birim kurulu tarafından belirlenen; bir dersten veya uygulamadan başarılı olmak için gerekli yarıyıl/yıl sonu sınavı notu alt sınır değerini ifade eder.
+
+Yarıyıl/yıl içi değerlendirmesi
+MADDE 3 (1) Bir ders için yarıyıl/yıl içi değerlendirme araçları ara sınav, ödev, proje, laboratuvar, uygulama ve diğer çalışmalardan oluşur.
+(5) Yarıyıl/yıl içi değerlendirmesinde belirlenmiş ara sınav(lar)ın başarı notuna toplam katkısı en az %20'dir.
+
+Yarıyıl/yıl sonu sınavı
+MADDE 4-(1) Yarıyıl/yıl sonu sınavı 100 puan üzerinden notlandırılır.
+(2) Yarıyıl sonu sınavı notunun başarı notuna katkısı, Fen Bilimleri Enstitüsünde %50, diğer enstitülerde %60'tır.
+(3) Yarıyıl/yıl sonu sınavının başarı notuna katkısı fakülte, yüksekokul ve meslek yüksekokullarında Birim Kurulları tarafından en az %40 en çok %60 olacak şekilde belirlenir.
+(6) Yarıyıl/yıl sonu sınavına ilişkin bir öğrencinin bir dersten veya uygulamadan başarı değerlendirmesi:
+a) Bağıl değerlendirme sistemi uygulanmayan durumlarda; yarıyıl/yıl sonu sınavından 100 puan üzerinden, enstitülerin tezli veya tezsiz yüksek lisans programlarında en az 65; doktora veya sanatta yeterlik programlarında en az 75; fakülte, yüksekokul ve meslek yüksekokullarında en az 50 alamayan öğrenciler başarısız sayılırlar.
+b) Bağıl değerlendirme sistemi uygulanan durumlarda; yarıyıl/yıl sonu sınavından 100 puan üzerinden YSSL'nin altında not alan öğrenciler başarısız sayılırlar.
+
+Başarı notu
+MADDE 5 (1) Başarı notu; yarıyıl/yıl içi değerlendirmesi ve yarıyıl/yıl sonu sınavı notlarından hesaplanır.
+(2) Bağıl değerlendirme uygulanmayan durumlarda; bir dersten veya uygulamadan 100 puan üzerinden, enstitülerin tezli veya tezsiz yüksek lisans programlarında en az 65; doktora veya sanatta yeterlik programlarında en az 75; fakülte, yüksekokul ve meslek yüksekokullarında en az 50; yıl esasına göre eğitim-öğretim yapan birimlerde en az 60 başarı notu alamayan öğrenciler başarısız sayılır.
+
+Başarı değerlendirme yöntemi
+MADDE 6 (1) 100 üzerinden hesaplanmış olan başarı notunun harfli başarı notuna dönüştürülmesidir.
+(2) Başarı değerlendirmede üç farklı yöntemden biri esas alınır: Doğrudan dönüşüm sistemi (DDS), bağıl değerlendirme sistemi (BDS) veya dersin öğretim üyesinin/görevlisinin benimseyeceği diğer bir yöntem.
+
+Doğrudan dönüşüm sistemi (DDS)
+MADDE 7-(1) Bağıl değerlendirme uygulanmayan derslerde, 100'lük başarı notunu harfli başarı notuna çevirirken kullanılacak doğrudan dönüşüm sistemi Tablo 2'de yer almaktadır.
+Tablo 2: Doğrudan Dönüşüm Sistemi
+90-100: AA (4,00) Pekiyi
+85-89: BA (3,50) İyi-Pekiyi
+80-84: BB (3,00) İyi
+75-79: CB (2,50) Orta-İyi
+65-74: CC (2,00) Orta
+55-64: DC (1,50) Orta-Geçer
+50-54: DD (1,00) Geçer
+45-49: FD (0,50) Başarısız
+0-44: FF (0,00) Başarısız
+
+Bağıl değerlendirme sistemi (BDS) ve adımları
+MADDE 8-(1) BDS; bir öğrencinin başarısının, dersteki diğer öğrencilerin başarı düzeylerine göre değerlendirilmesidir.
+(3) Bağıl değerlendirmeye esas olacak üç sınır değer, YSSL, BNAL ve BDKL birimler tarafından belirlenir. 100 puan üzerinden; YSSL ve BNAL 35'ten; BDKL 20'den az olamaz.
+
+Tek ders sınavı
+MADDE 12 (1) Mezuniyeti için azami öğrenim süresini kullanmamış önlisans veya lisans öğrencilerinden, devam şartını yerine getirmiş olduğu tek dersten sorumluluğu kalan veya mezuniyeti için GANO'sunun en az 2,00 olma şartı hariç tüm gerekleri yerine getirmiş öğrencilere; bu sınav sonucu alacağı notun katkısıyla GANO'sunu en az 2,00 düzeyine çekebilecek durumda olması koşuluyla, yarıyıl/yıl sonunda yalnızca bir dersten tek ders sınav hakkı tanınır.
+
+Harfli başarı notları
+MADDE 13-(3) Öğrencinin başarı durumuna ilişkin esaslar:
+a) Fakülte, yüksekokul ve meslek yüksekokullarında AA, BA, BB, CB, CC, DC, DD ve S başarılı; FD, FF, FG, DZ ve U başarısız harf notlarıdır.
+d) FG (Yarıyıl/yıl sonu sınavına girmedi, başarısız): Derse devam ve uygulama ile ilgili koşulları yerine getirerek o dersin yarıyıl/yıl sonu sınavına girme hakkı olduğu halde sınavına girmeyen öğrencilerin ilgili dersleri için kullanılır ve öğrenci o dersten başarısız sayılır.
+e) DZ (Devamsız, başarısız): Derse devam ve uygulama ile ilgili koşulları yerine getirememiş, devamsızlık nedeniyle o dersin yarıyıl/yıl sonu sınavına girme hakkı olmayan öğrencilerin ilgili dersleri için kullanılır.
+
+İşaretler
+MADDE 14-(1) Tablo 6: İşaretler ve Açıklamaları
+R: Tekrar
+NC: Kredisiz
+TI: Transfer İç yatay geçiş
+TY: Transfer - Dış yatay geçiş
+TD: Transfer - Dikey geçiş
+M: Muafiyet sınavı ile muaf, kredisiz
+MK: Muafiyet sınavı ile muaf, kredili
+DP: Öğrenci değişim programı
+TK: Tek ders sınavı
+CY: Çift anadal programı / Yandal programı
+
+Dörtlük sistemdeki notların yüzlük sistemdeki eşdeğerliği
+MADDE 17-(1) Marmara Üniversitesi öğrencilerinin 4'lük sistemdeki notların 100'lük sistemdeki eşdeğerliği Tablo 12'ye göre belirlenir.
+4.00 = 100.00
+3.50 = 87.50
+3.00 = 82.50
+2.50 = 77.50
+2.00 = 70.00
+1.50 = 60.00
+1.00 = 52.50
+0.00 = 0.00
+
+Yürürlük
+MADDE 18-(1) Bu Yönerge yayımı tarihinde yürürlüğe girer.

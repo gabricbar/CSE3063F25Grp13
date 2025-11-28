@@ -1,0 +1,210 @@
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: tek ders sınavı tek ders mi?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['tek', 'sınavı', 'tek']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 23", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 1002.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 7 ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: CSE3063 dersinin ön koşulu nedir?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['cse3063', 'ön', 'koşulu']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 9", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 25", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 5 ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: tek ders sınavı koşulları nedir?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['tek', 'sınavı', 'koşulları']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 27", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 1001.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 6 ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: CSE3063 dersinin ön koşulu nedir?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['cse3063', 'ön', 'koşulu']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 9", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 25", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 6 ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: Murat Can Ganiz ofisi nerede?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['murat', 'can', 'ganiz', 'ofisi', 'ofis']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 15", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 25", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 8 ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: CSE3063 dersinin önkoşulu nedir?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['cse3063', 'önkoşulu']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 2", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 10", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 5 ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: Yaz okulunda kaç ders alabilirim?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['yaz', 'okulunda', 'alabilirim']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 13", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 1001.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 4 ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: Murat Can Ganiz ofisi nerede?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['murat', 'can', 'ganiz', 'ofisi', 'ofis']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 15", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 25", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 5 ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: CSE3063 dersinin önkoşulu nedir?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['cse3063', 'önkoşulu']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 2", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 10", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 5 ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: Yaz okulunda kaç ders alabilirim?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['yaz', 'okulunda', 'alabilirim']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 13", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 1001.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 4 ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: Muratcan Ganiz'in ofis numarası", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['muratcan', 'ganiz', 'in', 'ofis', 'numarası']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "15", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "10", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Ofis: Office:M2-217", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "4ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: yaz okulu koşulları", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "UNKNOWN", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['yaz', 'okulu', 'koşulları']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "18", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "(4) Yabancı dil hazırlık sınıfına kayıtlı öğrenciler yaz okulundan ders alamaz (Yabancı Diller Yüksekokulu yaz okulu hariç).", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "22ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: yaz okulu koşulları", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "UNKNOWN", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['yaz', 'okulu', 'koşulları']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "18", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "(4) Yabancı dil hazırlık sınıfına kayıtlı öğrenciler yaz okulundan ders alamaz (Yabancı Diller Yüksekokulu yaz okulu hariç).", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "10ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: yaz okulu koşulları", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "UNKNOWN", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['yaz', 'okulu', 'koşulları']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "18", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "(4) Yabancı dil hazırlık sınıfına kayıtlı öğrenciler yaz okulundan ders alamaz (Yabancı Diller Yüksekokulu yaz okulu hariç).", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "7ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: Muratcan Ganiz'in ofis numarası", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['muratcan', 'ganiz', 'in', 'ofis', 'numarası']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "15", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "10", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Ofis: Office:M2-217", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "6ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: Muratcan Ganiz'in ofis numarası", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['muratcan', 'ganiz', 'in', 'ofis', 'numarası']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "15", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "10", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Ofis: Office:M2-217", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "22ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: yaz okulu koşulları", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "UNKNOWN", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['yaz', 'okulu', 'koşulları']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "18", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "(4) Yabancı dil hazırlık sınıfına kayıtlı öğrenciler yaz okulundan ders alamaz (Yabancı Diller Yüksekokulu yaz okulu hariç).", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "7ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: Tek ders sınavına kaç dersten girilir", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "19", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Mezuniyeti için azami öğrenim süresini kullanmış yada kullanmamış öğrencilerden, devam şartını yerine getirmiş olduğu tek dersten sorumluluğu kalan veya mezuniyeti için GANO’ sunun en az 2,00 olma şartı hariç tüm gerekleri yerine getirmiş öğrencilere; bu sınav sonucu alacağı notun katkısıyla GANO’ sunu en az 2,00 düzeyine çekebilecek durumda olması koşuluyla, yarıyıl/yıl sonunda yalnızca bir dersten tek ders sınav hakkı tanınır. Tek ders sınav günü akademik takvimde belirtilir.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "8ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Tek ders sınavına kaç dersten girilir", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 19", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 11ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: yaz okulu koşulları", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: UNKNOWN", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['yaz', 'okulu', 'koşulları']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 18", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 9ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: yaz okulu koşulları", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: UNKNOWN", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['yaz', 'okulu', 'koşulları']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 18", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 9ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Tek ders sınavına kaç dersten girilir", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 19", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 10ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Muratcan Ganiz'in ofis numarası", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['muratcan', 'ganiz', 'in', 'ofis', 'numarası']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 15", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 10", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 9ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Muratcan Ganiz'in ofis numarası", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['muratcan', 'ganiz', 'in', 'ofis', 'numarası']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 15", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 10", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 9ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Muratcan Ganiz'in ofis numarası", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['muratcan', 'ganiz', 'in', 'ofis', 'numarası']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 15", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 10", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 7ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Tek ders sınavına kaç dersten girilir", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 19", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 7ms", "timingMs": 0}
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Tek ders sınavına kaç dersten girilir", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 19", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 8ms", "timingMs": 0}
+{"stage": "START", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "Received question", "timingMs": 0}
+{"stage": "INTENT", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "['tek', 'sınavına', 'dersten', 'girilir']", "outputsSummary": "19 hits", "timingMs": 0}
+{"stage": "RERANK", "inputs": "['tek', 'sınavına', 'dersten', 'girilir']", "outputsSummary": "best=58", "timingMs": 1}
+{"stage": "ANSWER", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "Mezuniyeti için azami öğrenim süresini kullanmış yada kullanmamış öğrencilerden,", "timingMs": 0}
+{"stage": "END", "inputs": "Pipeline completed", "outputsSummary": "Total=8ms", "timingMs": 8}
+{"stage": "START", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "Received question", "timingMs": 0}
+{"stage": "INTENT", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "['tek', 'sınavına', 'dersten', 'girilir']", "outputsSummary": "19 hits", "timingMs": 0}
+{"stage": "RERANK", "inputs": "['tek', 'sınavına', 'dersten', 'girilir']", "outputsSummary": "best=58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "Mezuniyeti için azami öğrenim süresini kullanmış yada kullanmamış öğrencilerden,", "timingMs": 0}
+{"stage": "END", "inputs": "Pipeline completed", "outputsSummary": "Total=18ms", "timingMs": 18}
+{"stage": "START", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "Received question", "timingMs": 0}
+{"stage": "INTENT", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "['tek', 'sınavına', 'dersten', 'girilir']", "outputsSummary": "19 hits", "timingMs": 0}
+{"stage": "RERANK", "inputs": "['tek', 'sınavına', 'dersten', 'girilir']", "outputsSummary": "best=58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "Mezuniyeti için azami öğrenim süresini kullanmış yada kullanmamış öğrencilerden,", "timingMs": 1}
+{"stage": "END", "inputs": "Pipeline completed", "outputsSummary": "Total=6ms", "timingMs": 6}

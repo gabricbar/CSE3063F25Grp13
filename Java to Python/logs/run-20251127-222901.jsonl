@@ -1,0 +1,7 @@
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Muratcan Ganiz'in ofis numarası", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['muratcan', 'ganiz', 'in', 'ofis', 'numarası']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 15", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 10", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 9ms", "timingMs": 0}

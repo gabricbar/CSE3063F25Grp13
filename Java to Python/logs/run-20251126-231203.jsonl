@@ -1,0 +1,7 @@
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: tek ders sınavı koşulları nedir?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['tek', 'sınavı', 'koşulları']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 27", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 1001.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 6 ms", "timingMs": 0}

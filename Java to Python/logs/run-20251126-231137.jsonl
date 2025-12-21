@@ -1,0 +1,7 @@
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: tek ders sınavı tek ders mi?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['tek', 'sınavı', 'tek']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 23", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 1002.0", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 7 ms", "timingMs": 0}

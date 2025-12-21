@@ -1,0 +1,7 @@
+{"stage": "START", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "Received question", "timingMs": 0}
+{"stage": "INTENT", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "['tek', 'sınavına', 'dersten', 'girilir']", "outputsSummary": "19 hits", "timingMs": 0}
+{"stage": "RERANK", "inputs": "['tek', 'sınavına', 'dersten', 'girilir']", "outputsSummary": "best=58", "timingMs": 1}
+{"stage": "ANSWER", "inputs": "Tek ders sınavına kaç dersten girilir", "outputsSummary": "Mezuniyeti için azami öğrenim süresini kullanmış yada kullanmamış öğrencilerden,", "timingMs": 0}
+{"stage": "END", "inputs": "Pipeline completed", "outputsSummary": "Total=8ms", "timingMs": 8}

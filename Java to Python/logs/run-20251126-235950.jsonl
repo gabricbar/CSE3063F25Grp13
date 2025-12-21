@@ -1,0 +1,7 @@
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: Muratcan Ganiz'in ofis numarası", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "STAFF_LOOKUP", "timingMs": 0}
+{"stage": "QUERY_TERMS", "inputs": "", "outputsSummary": "['muratcan', 'ganiz', 'in', 'ofis', 'numarası']", "timingMs": 0}
+{"stage": "RETRIEVED", "inputs": "", "outputsSummary": "15", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "10", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Ofis: Office:M2-217", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "4ms", "timingMs": 0}

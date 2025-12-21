@@ -1,0 +1,7 @@
+{"stage": "START", "inputs": "", "outputsSummary": "Soru: CSE3063 dersinin ön koşulu nedir?", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Niyet: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Terimler: ['cse3063', 'ön', 'koşulu']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Toplam Hit: 9", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "En iyi skor -> 25", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Cevap oluşturuldu", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Süre: 6 ms", "timingMs": 0}

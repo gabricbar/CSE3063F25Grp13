@@ -1,0 +1,7 @@
+{"stage": "START", "inputs": "", "outputsSummary": "Question received: Tek ders sınavına kaç dersten girilir", "timingMs": 0}
+{"stage": "INTENT", "inputs": "", "outputsSummary": "Detected intent: COURSE_INFO", "timingMs": 0}
+{"stage": "QUERY", "inputs": "", "outputsSummary": "Search terms: ['tek', 'sınavına', 'dersten', 'girilir']", "timingMs": 0}
+{"stage": "RETRIEVE", "inputs": "", "outputsSummary": "Found chunks: 19", "timingMs": 0}
+{"stage": "RERANK", "inputs": "", "outputsSummary": "Best score: 58", "timingMs": 0}
+{"stage": "ANSWER", "inputs": "", "outputsSummary": "Answer generated.", "timingMs": 0}
+{"stage": "END", "inputs": "", "outputsSummary": "Total duration: 8ms", "timingMs": 0}

@@ -1,0 +1,77 @@
+MARMARA ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ DERS PLANI VE ÖNKOŞULLAR
+
+Dönem (Freshman - Güz)
+CSE1200 Introduction to Computer Eng. (ECTS=4)
+MATH1001 Calculus I (ECTS=6)
+CSE1241 Computer Programming I (ECTS=6)
+PHYS1101 Physics I (ECTS=4)
+PHYS1103 Physics Lab I (ECTS=2)
+ATA121 Atatürk's Prin. & History I (ECTS=2)
+MBG1201 Introduction to Modern Biology (ECTS=5)
+TRD 121 Turkish Language I (ECTS=2)
+
+Dönem (Freshman - Bahar)
+CSE1242 Computer Programming II (ECTS=6) - Önkoşul: CSE1241
+MATH1002 Calculus II (ECTS=6) - Önkoşul: MATH1001
+PHYS1102 Physics II (ECTS=4)
+PHYS1104 Physics Lab II (ECTS=2)
+NTEI Nontechnical Elective I (ECTS=3)
+ATA122 Atatürk's Prin. & History II (ECTS=2)
+MATH2256 Linear Algebra for Comp. Eng. (ECTS=5)
+TRD 122 Turkish Language II (ECTS=2)
+
+Dönem (Sophomore - Güz)
+CSE2023 Discrete Comp. Structures (ECTS=6)
+CSE2225 Data Structures (ECTS=7) - Önkoşul: CSE1242
+EE2031 Electric Circuits (ECTS=5)
+MATH2059 Numerical Methods (ECTS=4)
+ECON2004 Engineering Economy (ECTS=4)
+MATH2055 Differential Equations (ECTS=4) - Önkoşul: MATH1002
+
+Dönem (Sophomore - Bahar)
+CSE2246 Analysis of Algorithms (ECTS=6) - Önkoşul: CSE2225
+CSE2260 Principles of Prog. Languages (ECTS=6) - Önkoşul: CSE2225
+CSE2138 Systems Programming (ECTS=7) - Önkoşul: CSE1242
+EE2032 Electronics (ECTS=5) - Önkoşul: EE2031
+STAT2253 Prob. and Stat. for Comp. Eng. (ECTS=5)
+
+Dönem (Junior - Güz)
+CSE3055 Database Systems (ECTS=7) - Önkoşul: CSE2225
+CSE3033 Operating Systems (ECTS=7) - Önkoşul: CSE2138
+CSE3063 Object-Oriented Software Desg. (ECTS=5) - Önkoşul: CSE1242
+CSE3215 Digital Logic Design (ECTS=6)
+IE3081 Modeling and Disc. Simulation (ECTS=4) - Önkoşul: STAT2253
+CSE3000 Summer Practice (ECTS=10)
+
+Dönem (Junior - Bahar)
+CSE3044 Software Engineering (ECTS=7) - Önkoşul: CSE3063
+CSE3264 Formal Lang. & Auto. Theory (ECTS=5) - Önkoşul: CSE2023
+CSE3038 Computer Organization (ECTS=7) - Önkoşul: CSE3215
+CSE3048 Int. to Signals and Systems (ECTS=5) - Önkoşul: MATH2055
+COM2202 Tech. Comm. & Entrepreneurship (ECTS=2)
+UE University Elective (ECTS=3)
+
+Dönem (Senior - Güz)
+CSE4297 Engineering Project I (ECTS=5)
+CSE4074 Computer Networks (ECTS=5) - Önkoşul: CSE3033
+CSE4219 Prin. of Embed. System Design (ECTS=6) - Önkoşul: CSE3038
+CSE4288 Int. to Machine Learning (ECTS=5) - Önkoşul: STAT2253
+TE I Technical Elective I (ECTS=5)
+ISG121 Work Safety I (ECTS=2)
+CSE4000 Summer Practice (ECTS=10)
+
+Dönem (Senior - Bahar)
+CSE4298 Engineering Project II (ECTS=5) - Önkoşul: CSE4297
+IE3235 Operations Research (ECTS=4) - Önkoşul: MATH2256
+TE II Technical Elective II (ECTS=5)
+TE III Technical Elective III (ECTS=5)
+TE IV Technical Elective IV (ECTS=5)
+FTE Faculty Technical Elective (ECTS=5)
+NTE II Nontechnical Elective II (ECTS=3)
+ISG122 Work Safety II (ECTS=2)
+
+Technical Electives (Örnekler)
+TE: CSE4075 Wireless & Mobile Networks (ECTS=5)
+TE: CSE4034 Advanced Unix Programming (ECTS=5)
+TE: CSE4061 Compiler Design (ECTS=5)
+TE: CSE4217 Microprocessors (ECTS=5)

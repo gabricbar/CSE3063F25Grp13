@@ -14,13 +14,7 @@ from src.impl import (
     TemplateAnswerAgent
 )
 from src.tracing import TraceBus, JsonlTraceSink
-from src.core import (
-    IntentDetector,
-    QueryWriter,
-    Retriever,
-    Reranker,
-    AnswerAgent
-)
+
 
 # -------------------------------
 # DATA LOAD
@@ -75,15 +69,67 @@ def setup_tracing():
 
 
 # -------------------------------
+# BATCH MODE
+# -------------------------------
+def run_batch(orchestrator: RagOrchestrator, batch_path: str, out_path: str):
+    """Read questions from JSONL and write answers to JSONL."""
+    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
+
+    with open(batch_path, "r", encoding="utf-8") as fin, open(out_path, "w", encoding="utf-8") as fout:
+        for line_no, line in enumerate(fin, start=1):
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                item = json.loads(line)
+            except json.JSONDecodeError:
+                raise SystemExit(f"Invalid JSON on line {line_no} in {batch_path}")
+
+            qid = item.get("id", str(line_no))
+            question = item.get("question") or item.get("q")
+            if not question:
+                raise SystemExit(f"Missing 'question' field on line {line_no} in {batch_path}")
+
+            t0 = time.perf_counter()
+            answer_obj = orchestrator.run(question)
+            latency_ms = int((time.perf_counter() - t0) * 1000)
+
+            row = {
+                "id": qid,
+                "question": question,
+                "answer": answer_obj.finalText,
+                "citations": [
+                    {
+                        "docId": c.docId,
+                        "sectionId": c.sectionId,
+                        "startOffset": c.startOffset,
+                        "endOffset": c.endOffset,
+                    }
+                    for c in (answer_obj.citations or [])
+                ],
+                "latency_ms": latency_ms,
+            }
+            fout.write(json.dumps(row, ensure_ascii=False) + "\n")
+
+
+# -------------------------------
 # MAIN
 # -------------------------------
 def main():
-    parser = argparse.ArgumentParser(description="MiniRAG Python")
-    parser.add_argument("--config", help="Config file")
-    parser.add_argument("--q", help="Question", required=True)
+    parser = argparse.ArgumentParser(description="MiniRAG Python (Iteration 2)")
+    parser.add_argument("--config", help="Config file (optional for this iteration)")
+
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--q", help="Single question (interactive mode)")
+    group.add_argument("--batch", help="Path to questions.jsonl for batch mode")
+
+    parser.add_argument("--out", help="Path to answers.jsonl (required with --batch)")
+
     args = parser.parse_args()
 
-  
+    if args.batch and not args.out:
+        raise SystemExit("--out is required when using --batch")
+
     # 1. Logging
     setup_tracing()
 
@@ -100,9 +146,13 @@ def main():
         index
     )
 
-    # 4. Execute (only single question)
-    answer = orchestrator.run(args.q)
-    print(answer)
+    # 4. Execute
+    if args.batch:
+        run_batch(orchestrator, args.batch, args.out)
+        print(f"Wrote batch answers to {args.out}")
+    else:
+        answer = orchestrator.run(args.q)
+        print(str(answer))
 
 
 if __name__ == "__main__":

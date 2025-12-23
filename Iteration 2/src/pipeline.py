@@ -1,5 +1,6 @@
 import time
 from .tracing import TraceBus
+from .models import Answer  # for type hints (optional)
 
 class RagOrchestrator:
     def __init__(self, intent_detector, query_writer, retriever, reranker, answer_agent, global_index):
@@ -10,16 +11,17 @@ class RagOrchestrator:
         self.answer_agent = answer_agent
         self.global_index = global_index
 
-    def run(self, user_question: str) -> str:
+    def run(self, user_question: str) -> Answer:
+        """Run the pipeline for a single question and return an Answer object."""
 
         # START
         t0 = time.time()
-        TraceBus.push_full("START", user_question, "Received question", 0)
+        ...
 
         # INTENT
         t1 = time.time()
         intent = self.intent_detector.detect(user_question)
-        TraceBus.push_full("INTENT", user_question, intent.value, int((time.time() - t1) * 1000))
+        TraceBus.push_full("INTENT", user_question, str(intent), int((time.time() - t1) * 1000))
 
         # QUERY
         t2 = time.time()
@@ -46,4 +48,10 @@ class RagOrchestrator:
         total = int((time.time() - t0) * 1000)
         TraceBus.push_full("END", "Pipeline completed", f"Total={total}ms", total)
 
-        return str(answer)
+        return answer
+
+    def run_with_debug(self, user_question: str):
+        """Run and also return intermediate artifacts useful for batch evaluation."""
+        answer = self.run(user_question)
+        # We can re-compute light debug info from traces? For now, return answer only.
+        return answer

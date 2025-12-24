@@ -11,6 +11,7 @@ from src.impl import (
     HeuristicQueryWriter,
     KeywordRetriever,
     SimpleReranker,
+    CosineReranker,
     TemplateAnswerAgent
 )
 from src.tracing import TraceBus, JsonlTraceSink
@@ -119,6 +120,10 @@ def main():
     parser = argparse.ArgumentParser(description="MiniRAG Python (Iteration 2)")
     parser.add_argument("--config", help="Config file (optional for this iteration)")
 
+    # New argument for selecting reranker
+    parser.add_argument("--reranker", choices=["simple", "cosine"], default="simple", 
+                        help="Select the reranking strategy (default: simple)")
+
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--q", help="Single question (interactive mode)")
     group.add_argument("--batch", help="Path to questions.jsonl for batch mode")
@@ -136,17 +141,25 @@ def main():
     # 2. Data
     chunks, index = load_data()
 
-    # 3. Pipeline
+    # 3. Component Selection
+    if args.reranker == "cosine":
+        reranker = CosineReranker(chunks)
+        print("Using CosineReranker")
+    else:
+        reranker = SimpleReranker(chunks)
+        print("Using SimpleReranker")
+
+    # 4. Pipeline
     orchestrator = RagOrchestrator(
         RuleBasedIntentDetector(),
         HeuristicQueryWriter(),
         KeywordRetriever(),
-        SimpleReranker(chunks),
+        reranker,
         TemplateAnswerAgent(),
         index
     )
 
-    # 4. Execute
+    # 5. Execute
     if args.batch:
         run_batch(orchestrator, args.batch, args.out)
         print(f"Wrote batch answers to {args.out}")

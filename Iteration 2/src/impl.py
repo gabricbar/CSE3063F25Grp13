@@ -1,4 +1,6 @@
 import re
+import math
+from collections import Counter
 from typing import List, Dict, Set
 from .core import IntentDetector, QueryWriter, Retriever, Reranker, AnswerAgent
 from .models import Intent, Hit, KeywordIndex, IndexEntry, Answer, Citation, Chunk
@@ -134,12 +136,59 @@ class SimpleReranker(Reranker):
         hits.sort()
         return hits
 
+class CosineReranker(Reranker):
+    """
+    Alternative reranker implementing Cosine Similarity.
+    Calculates similarity between the query term vector and the document chunk vector.
+    """
+    def __init__(self, all_chunks: List[Chunk]):
+        self.chunk_map = {f"{c.docId}_{c.chunkId}": c for c in all_chunks}
 
-import re
-from typing import List
-from .core import AnswerAgent
-from .models import Answer, Citation, Hit
-import locale
+    def _tokenize(self, text: str) -> List[str]:
+        # Simple tokenization: lowercase, remove non-alphanumeric, split
+        clean = re.sub(r'[^\w\s]', ' ', text.lower())
+        return [t for t in clean.split() if len(t) > 1]
+
+    def rerank(self, query_terms: List[str], hits: List[Hit]) -> List[Hit]:
+        if not hits:
+            return []
+        
+        # 1. Vectorize Query
+        # Note: query_terms are already processed/tokenized by QueryWriter
+        query_vec = Counter(query_terms)
+        query_norm = math.sqrt(sum(v**2 for v in query_vec.values()))
+
+        for hit in hits:
+            key = f"{hit.docId}_{hit.chunkId}"
+            chunk = self.chunk_map.get(key)
+            if not chunk:
+                continue
+
+            # Populate chunkText for the AnswerAgent
+            hit.chunkText = chunk.rawText
+            
+            # 2. Vectorize Document Chunk
+            doc_tokens = self._tokenize(hit.chunkText)
+            doc_vec = Counter(doc_tokens)
+            doc_norm = math.sqrt(sum(v**2 for v in doc_vec.values()))
+
+            # 3. Calculate Cosine Similarity
+            if query_norm == 0 or doc_norm == 0:
+                similarity = 0.0
+            else:
+                dot_product = sum(query_vec[t] * doc_vec[t] for t in query_vec if t in doc_vec)
+                similarity = dot_product / (query_norm * doc_norm)
+
+            # 4. Update Score
+            # We use raw similarity as the primary score.
+            hit.score = similarity
+            
+            # Update sort index: (-score, docId, chunkId) for descending sort
+            hit.sort_index = (-hit.score, hit.docId, hit.chunkId)
+
+        hits.sort()
+        return hits
+
 
 class TemplateAnswerAgent(AnswerAgent):
 

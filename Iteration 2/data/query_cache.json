@@ -1,0 +1,156 @@
+{
+  "mustafa ağaoğlu'nun ofisi nerede?": {
+    "finalText": "Dr. Mustafa AĞAOĞLU\nPhD: Bilişim-Marmara Üniversitesi\nMS: Bilgisayar Müh.-Marmara Üniversitesi\nBS: Fizik-Boğaziçi Üniversitesi\nE-posta: agaoglu\nOfis: M2-221",
+    "citations": [
+      {
+        "docId": "akademik kadro",
+        "sectionId": "Chunk4",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "cse3063 dersinin ön koşulu nedir?": {
+    "finalText": "CSE3063 Object-Oriented Software Desg. (ECTS=5) - Önkoşul: CSE1242",
+    "citations": [
+      {
+        "docId": "ders_planı",
+        "sectionId": "Chunk29",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "mazeret sınavı başvurusu kaç iş günü içinde yapılmalıdır?": {
+    "finalText": "DÖRDÜNCÜ BÖLÜM: Değerlendirme ve Mezuniyet\nMADDE 19 (1) Derslere devam zorunluluğu: Teorik derslerin en az %70'ine, uygulamalı derslerin ise en az %80'ine devam etmiş olması gerekir.\nMADDE 20-(1) Her yarıyıl en az bir ara sınav ve bir yarıyıl sonu sınavı yapılır.\nMADDE 21-(1) Haklı ve geçerli nedenlerle sınavlara giremeyen öğrenciler, mazeretlerini 5 iş günü içinde bildirir. Mazereti kabul edilenler mazeret sınavına girer. Bütünleme sınavının mazereti yapılmaz.\nMADDE 23-(2) Başarı notu; yarıyıl içi ve yarıyıl sonu sınavı notlarından hesaplanır. Yarıyıl sonu sınavının katkısı en az %30 en çok %60'tır.\n(4) Yarıyıl sonu sınavına girmeyen öğrenci başarısız sayılır.\nMADDE 25-(4) GANO'su 3,00-3,49 arası Onur Öğrencisi; 3,50 ve üstü Yüksek Onur Öğrencisi olur.\nMADDE 26 (2) GANO yükseltmek için DD, DC notu alınan dersler tekrar edilebilir. CC ve üzeri not alınan dersler tekrar edilmez.\nMADDE 27 (1) Tek Ders Sınavı: Mezuniyet için tek dersten sorumluluğu kalan veya GANO'sunu 2,00'a çekebilecek",
+    "citations": [
+      {
+        "docId": "yonetmelik_onlisans_lisans",
+        "sectionId": "Chunk5",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "zorunlu staj süresi toplam en az kaç iş günüdür?": {
+    "finalText": "Zorunlu Staj\nMADDE 5-(1) Öğrencilerin eğitimleri sırasında en az 60 iş günü staj yapmaları gerekir.\n(2) Staj süresi, en az 20 iş günü, en çok 40 iş günü olmak üzere birkaç döneme bölünebilir ve en az iki işyerinde tamamlanır.\n(3) Öğrenciler, 4 üncü yarıyıldan sonra staj yaparlar.\n(4) Resmi tatil ilan edilen günlerde staj yapılmaz. Cumartesi günü çalışılan işyerlerinde Cumartesi de iş günü sayılır (belgelenmek kaydıyla).\n(5) Stajlar yaz tatilinde ve/veya 10 iş günü sığdığı takdirde yarıyıl tatilinde yapılabilir.",
+    "citations": [
+      {
+        "docId": "staj",
+        "sectionId": "Chunk2",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "yaz okulunda başka üniversiteden en fazla kaç ders alınabilir?": {
+    "finalText": "Başvuru ve Ders Alma Esasları\nMADDE 9- (2) Yaz okulunda öğrenciler; alt yarıyıllara ait hiç almadıkları, alıp da başarısız oldukları (FF, FD) veya GANO'larını yükseltmek istedikleri DD, DC notlu dersleri alabilir. S notu ve CC ve üzeri notlarla başarılmış dersler tekrar edilmez.\n(3) Başka Üniversiteden Ders Alma: Öğrencinin kaydolmak istediği dersler Marmara Üniversitesi'nde açılmamışsa, içerik ve kredi/AKTS uyumu şartıyla ve birim yönetim kurulu onayıyla başka üniversitelerden ders alınabilir. Toplamda en fazla 5 ders alınabilir.\n(4) Yabancı dil hazırlık sınıfına kayıtlı öğrenciler yaz okulundan ders alamaz (Yabancı Diller Yüksekokulu yaz okulu hariç).\n(5) GANO'su en az 3,00 olan öğrenciler üst yarıyıllardan ders alabilir.\n(9) Yaz okulunda, dersler başladıktan sonra kayıt dondurma, ders ekleme, ders değiştirme ve ders bırakma işlemi yapılmaz.",
+    "citations": [
+      {
+        "docId": "yaz_okulu",
+        "sectionId": "Chunk4",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "tek ders sınavı tek ders mi?": {
+    "finalText": "MARMARA ÜNİVERSİTESİ TEK DERS SINAVI BİLGİLERİ\n\n\nMezuniyeti için azami öğrenim süresini kullanmış yada kullanmamış öğrencilerden, devam şartını yerine getirmiş olduğu tek dersten sorumluluğu kalan veya mezuniyeti için GANO’ sunun en az 2,00 olma şartı hariç tüm gerekleri yerine getirmiş öğrencilere; bu sınav sonucu alacağı notun katkısıyla GANO’ sunu en az 2,00 düzeyine çekebilecek durumda olması koşuluyla, yarıyıl/yıl sonunda yalnızca bir dersten tek ders sınav hakkı tanınır. Tek ders sınav günü akademik takvimde belirtilir.\nTek ders sınavında alınan not tek bir not olarak doğrudan dönüşüm sistemine göre belirlenir. Başarısızlık halinde, ders sonraki yarıyılda/yılda tekrarlanır veya öğrenci, akademik takvimde belirtilen sonraki tek ders sınavına alınır.",
+    "citations": [
+      {
+        "docId": "tek_ders_sınavı",
+        "sectionId": "Chunk0",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "kayıt dondurma başvurusu olayın çıkışından itibaren ne kadar sürede yapılmalıdır?": {
+    "finalText": "BİRİNCİ BÖLÜM: Amaç, Kapsam, Dayanak ve Tanımlar\nMADDE 1- (1) Bu Yönetmeliğin amacı ve kapsamı; Marmara Üniversitesine bağlı fakülte, yüksekokul ve meslek yüksekokullarının kayıt, eğitim-öğretim ve sınavlarında uyulacak esasları düzenlemektir.\nMADDE 2-(1) Bu Yönetmelik, 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 44 üncü maddelerine dayanılarak hazırlanmıştır.\nMADDE 3-(1) Tanımlar:\na) Bağıl Değerlendirme Sistemi (BDS): Öğrencinin bir dersteki başarısının aynı derse kayıtlı diğer öğrencilerin başarı düzeylerine göre değerlendirilmesini,\ne) Doğrudan Dönüşüm Sistemi (DDS): Öğrencinin bir dersteki başarı notunun belirli bir ölçeğe göre harfli başarı notuna çevrilerek başarısının değerlendirilmesini ifade eder.",
+    "citations": [
+      {
+        "docId": "yonetmelik_onlisans_lisans",
+        "sectionId": "Chunk1",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "çift anadal programına (çap) ortalama şartı nedir?": {
+    "finalText": "YEDİNCİ BÖLÜM: Çeşitli ve Son Hükümler\nMADDE 35 (1) Çift Anadal Programları (ÇAP): Lisans diploması verilen tüm programlar arasında açılabilir.\nMADDE 36 (1) Yandal Programları: İkinci bir lisans programında sertifika amaçlı eğitimdir.",
+    "citations": [
+      {
+        "docId": "yonetmelik_onlisans_lisans",
+        "sectionId": "Chunk9",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "kurum içi yatay geçiş için not ortalaması (gano) en az kaç olmalıdır?": {
+    "finalText": "DÖRDÜNCÜ BÖLÜM: Değerlendirme ve Mezuniyet\nMADDE 19 (1) Derslere devam zorunluluğu: Teorik derslerin en az %70'ine, uygulamalı derslerin ise en az %80'ine devam etmiş olması gerekir.\nMADDE 20-(1) Her yarıyıl en az bir ara sınav ve bir yarıyıl sonu sınavı yapılır.\nMADDE 21-(1) Haklı ve geçerli nedenlerle sınavlara giremeyen öğrenciler, mazeretlerini 5 iş günü içinde bildirir. Mazereti kabul edilenler mazeret sınavına girer. Bütünleme sınavının mazereti yapılmaz.\nMADDE 23-(2) Başarı notu; yarıyıl içi ve yarıyıl sonu sınavı notlarından hesaplanır. Yarıyıl sonu sınavının katkısı en az %30 en çok %60'tır.\n(4) Yarıyıl sonu sınavına girmeyen öğrenci başarısız sayılır.\nMADDE 25-(4) GANO'su 3,00-3,49 arası Onur Öğrencisi; 3,50 ve üstü Yüksek Onur Öğrencisi olur.\nMADDE 26 (2) GANO yükseltmek için DD, DC notu alınan dersler tekrar edilebilir. CC ve üzeri not alınan dersler tekrar edilmez.\nMADDE 27 (1) Tek Ders Sınavı: Mezuniyet için tek dersten sorumluluğu kalan veya GANO'sunu 2,00'a çekebilecek",
+    "citations": [
+      {
+        "docId": "yonetmelik_onlisans_lisans",
+        "sectionId": "Chunk5",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "dört yıllık lisans programlarının azami tamamlama süresi kaç yıldır?": {
+    "finalText": "ÜÇÜNCÜ BÖLÜM: Eğitim - Öğretime İlişkin Esaslar\nMADDE 8 - (2) Eğitim-öğretim yılı en az yüz kırk gündür. Diş Hekimliği, Hukuk ve Tıp Fakültelerinde yıllık, diğer birimlerde yarıyıllık düzende eğitim-öğretim verilir.\nMADDE 10 (1) Azami süreler; iki yıllık önlisans programları için dört yıl, dört yıllık lisans programları için yedi yıl, beş veya altı yıl olan programlar için dokuz yıldır.\nMADDE 12 (1) Dersler; zorunlu dersler, ortak zorunlu dersler, yönelme/uzlanım dersleri, seçimlik dersler, önkoşullu dersler ve önkoşul dersleri olarak gruplandırılır.\n(2) Bir önkoşullu ders ile onu bağlayan önkoşul dersi arasında bağlantı şekilleri: Önkoşul dersinin başarılmış olması veya FD notunun sağlanmış olması veya birlikte alınıyor olmasıdır.\nMADDE 17-(1) Her öğrenciye bir öğretim üyesi/görevlisi danışman olarak atanır.\n(5) Öğrenci, yarıyıl/yıl kayıtlarının yapılması sırasında derslerini danışmanı ile birlikte düzenler ve dersler danışmanı tarafından onaylanmadıkça kesinleşmez.\nMADDE 18- (1)",
+    "citations": [
+      {
+        "docId": "yonetmelik_onlisans_lisans",
+        "sectionId": "Chunk3",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "geçici diploma nedir?": {
+    "finalText": "Mezuniyet Belgelerinin Teslimi\nMADDE 11-(1) Diploma, diploma eki ve yandal sertifikası sadece mezunun bizzat kendisine veya noter onaylı vekâlet ibraz eden vekiline elden teslim edilir. Posta ile gönderilmez.\n(3) Geçici Mezuniyet Belgesi: Mezuniyet işlemleri yapılmış ancak diploması henüz hazırlanmamış olanlara, 6 ay geçerliliği olan \"Geçici Mezuniyet Belgesi\" verilir.\n(10) Süreli veya süresiz Geçici Mezuniyet Belgesi diplomasını teslim alırken mezundan geri istenmez.",
+    "citations": [
+      {
+        "docId": "mezuniyet_belgeleri",
+        "sectionId": "Chunk4",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "tek ders sınavı tek ders mi": {
+    "finalText": "MARMARA ÜNİVERSİTESİ TEK DERS SINAVI BİLGİLERİ\n\n\nMezuniyeti için azami öğrenim süresini kullanmış yada kullanmamış öğrencilerden, devam şartını yerine getirmiş olduğu tek dersten sorumluluğu kalan veya mezuniyeti için GANO’ sunun en az 2,00 olma şartı hariç tüm gerekleri yerine getirmiş öğrencilere; bu sınav sonucu alacağı notun katkısıyla GANO’ sunu en az 2,00 düzeyine çekebilecek durumda olması koşuluyla, yarıyıl/yıl sonunda yalnızca bir dersten tek ders sınav hakkı tanınır. Tek ders sınav günü akademik takvimde belirtilir.\nTek ders sınavında alınan not tek bir not olarak doğrudan dönüşüm sistemine göre belirlenir. Başarısızlık halinde, ders sonraki yarıyılda/yılda tekrarlanır veya öğrenci, akademik takvimde belirtilen sonraki tek ders sınavına alınır.",
+    "citations": [
+      {
+        "docId": "tek_ders_sınavı",
+        "sectionId": "Chunk0",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "çift anadal programına (çap) nedir?": {
+    "finalText": "YEDİNCİ BÖLÜM: Çeşitli ve Son Hükümler\nMADDE 35 (1) Çift Anadal Programları (ÇAP): Lisans diploması verilen tüm programlar arasında açılabilir.\nMADDE 36 (1) Yandal Programları: İkinci bir lisans programında sertifika amaçlı eğitimdir.",
+    "citations": [
+      {
+        "docId": "yonetmelik_onlisans_lisans",
+        "sectionId": "Chunk9",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  },
+  "mustafa ağaoğlunun ofisi nerede?": {
+    "finalText": "Dr. Mustafa AĞAOĞLU\nOfis: M2-221",
+    "citations": [
+      {
+        "docId": "akademik kadro",
+        "sectionId": "Chunk4",
+        "startOffset": 0,
+        "endOffset": 0
+      }
+    ]
+  }
+}

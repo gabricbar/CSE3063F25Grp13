@@ -1,0 +1,30 @@
+{
+  "pipeline": {
+    "intent_detector": {
+      "type": "rule_based"
+    },
+    "query_writer": {
+      "type": "heuristic"
+    },
+    "retriever": {
+      "type": "keyword",
+      "top_k": 10
+    },
+    "reranker": {
+      "type": "simple", 
+      "top_n": 5
+    }
+    
+  },
+    "intents": {
+     "STAFF_LOOKUP": ["hoca", "ofis", "mail", "iletişim", "kimdir", "başkan", "oda", "nerede"],
+     "COURSE_INFO": ["ders", "kredi", "ects", "akts", "önkoşul", "dönem", "yarıyıl"],
+     "POLICY_FAQ": ["yönetmelik", "yönerge", "sınav", "staj", "mezuniyet", "çap", "yatay", "belge"],
+     "REGISTRATION": ["kayıt", "dondurma", "harç", "katkı payı", "ders seçimi"]
+  },
+  "data": {
+    "chunks_path": "data/chunks.json",
+    "index_path": "data/index.json",
+    "logs_dir": "logs"
+  }
+}

@@ -1,172 +1,183 @@
 import argparse
 import json
 import os
-from datetime import datetime
 import time
+import sys
+from datetime import datetime
 
+# Pipeline, Factory and Tracing components
 from src.pipeline import RagOrchestrator
-from src.models import Chunk, IndexEntry, KeywordIndex
-from src.impl import (
-    RuleBasedIntentDetector,
-    HeuristicQueryWriter,
-    KeywordRetriever,
-    SimpleReranker,
-    CosineReranker,
-    TemplateAnswerAgent
-)
+from src.factory import PipelineFactory
 from src.tracing import TraceBus, JsonlTraceSink
 
-
-# -------------------------------
-# DATA LOAD
-# -------------------------------
-def load_data():
-    with open("data/chunks.json", "r", encoding="utf-8") as f:
-        chunks_raw = json.load(f)
-
-    all_chunks = [
-        Chunk(
-            docId=c["docId"],
-            chunkId=c["chunkId"],
-            rawText=c["rawText"],
-            startOffset=c.get("startOffset", 0),
-            endOffset=c.get("endOffset", 0),
-            sectionId=c.get("sectionId")
-        )
-        for c in chunks_raw
-    ]
-
-    with open("data/index.json", "r", encoding="utf-8") as f:
-        index_raw = json.load(f)
-
-    index_map = {}
-    for term, entries in index_raw["indexMap"].items():
-        index_map[term] = [
-            IndexEntry(
-                docId=e["docId"],
-                chunkId=e["chunkId"],
-                tf=e["tf"]
-            )
-            for e in entries
-        ]
-
-    return all_chunks, KeywordIndex(indexMap=index_map)
-
-
-# -------------------------------
-# TRACE SETUP
-# -------------------------------
 def setup_tracing():
-    if not os.path.exists("logs"):
-        os.mkdir("logs")
+    """Initializes the tracing system and registers the JSONL sink."""
+    try:
+        if not os.path.exists("logs"):
+            os.makedirs("logs", exist_ok=True)
+        
+        timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+        log_path = f"logs/run-{timestamp}.jsonl"
+        TraceBus.register(JsonlTraceSink(log_path))
+    except Exception as e:
+        print(f"Critical Error: Could not initialize tracing. {e}")
 
-    timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
-
-    # logs/run-timestamp.jsonl
-    TraceBus.register(JsonlTraceSink(f"logs/run-{timestamp}.jsonl"))
-
-    # Global file
-    TraceBus.register(JsonlTraceSink("rag_trace.jsonl"))
-
-
-# -------------------------------
-# BATCH MODE
-# -------------------------------
-def run_batch(orchestrator: RagOrchestrator, batch_path: str, out_path: str):
-    """Read questions from JSONL and write answers to JSONL."""
-    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
-
-    with open(batch_path, "r", encoding="utf-8") as fin, open(out_path, "w", encoding="utf-8") as fout:
-        for line_no, line in enumerate(fin, start=1):
-            line = line.strip()
-            if not line:
-                continue
-            try:
-                item = json.loads(line)
-            except json.JSONDecodeError:
-                raise SystemExit(f"Invalid JSON on line {line_no} in {batch_path}")
-
-            qid = item.get("id", str(line_no))
-            question = item.get("question") or item.get("q")
-            if not question:
-                raise SystemExit(f"Missing 'question' field on line {line_no} in {batch_path}")
-
-            t0 = time.perf_counter()
-            answer_obj = orchestrator.run(question)
-            latency_ms = int((time.perf_counter() - t0) * 1000)
-
-            row = {
-                "id": qid,
-                "question": question,
-                "answer": answer_obj.finalText,
-                "citations": [
-                    {
-                        "docId": c.docId,
-                        "sectionId": c.sectionId,
-                        "startOffset": c.startOffset,
-                        "endOffset": c.endOffset,
-                    }
-                    for c in (answer_obj.citations or [])
-                ],
-                "latency_ms": latency_ms,
-            }
-            fout.write(json.dumps(row, ensure_ascii=False) + "\n")
-
-
-# -------------------------------
-# MAIN
-# -------------------------------
 def main():
-    parser = argparse.ArgumentParser(description="MiniRAG Python (Iteration 2)")
-    parser.add_argument("--config", help="Config file (optional for this iteration)")
+    parser = argparse.ArgumentParser(description="RAG Pipeline CLI")
+    
+    # Configuration is required
+    parser.add_argument("--config", required=True, help="Path to configuration JSON file")
+    
+    # Reranker override (Optional - overrides config file setting)
+    parser.add_argument("--reranker", choices=["simple", "cosine", "hybrid"], help="Override reranker type")
 
-    # New argument for selecting reranker
-    parser.add_argument("--reranker", choices=["simple", "cosine"], default="simple", 
-                        help="Select the reranking strategy (default: simple)")
-
+    # Mode Selection: Single question or Batch processing
     group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument("--q", help="Single question (interactive mode)")
-    group.add_argument("--batch", help="Path to questions.jsonl for batch mode")
+    group.add_argument("--q", help="Single query string")
+    group.add_argument("--batch", help="Path to input JSONL file for batch processing")
 
-    parser.add_argument("--out", help="Path to answers.jsonl (required with --batch)")
+    # Output file (Optional for batch mode)
+    parser.add_argument("--out", help="Path to output JSONL file for results")
 
     args = parser.parse_args()
 
-    if args.batch and not args.out:
-        raise SystemExit("--out is required when using --batch")
+    # --- 1. CONFIGURATION LOADING ---
+    config = {}
+    try:
+        if not os.path.exists(args.config):
+            print(f"Error: Config file '{args.config}' not found.")
+            return
 
-    # 1. Logging
+        with open(args.config, "r", encoding="utf-8") as f:
+            config = json.load(f)
+    except json.JSONDecodeError as e:
+        print(f"Error: Config file is not a valid JSON. {e}")
+        return
+    except Exception as e:
+        print(f"Error loading config: {e}")
+        return
+
+    # --- 2. CLI STRATEGY OVERRIDE ---
+    # Implements OCP by allowing strategy swapping without code changes
+    if args.reranker:
+        print(f"⚠️ [CLI Override] Reranker type changed to: {args.reranker.upper()}")
+        config.setdefault("pipeline", {}).setdefault("reranker", {})["type"] = args.reranker
+
+    # --- 3. INITIALIZE TRACING ---
     setup_tracing()
 
-    # 2. Data
-    chunks, index = load_data()
+    # --- 4. PIPELINE CONSTRUCTION ---
+    try:
+        if not args.out or args.q:
+            print(f"Initializing RagOrchestrator with config: {args.config}...")
+        
+        pipeline = PipelineFactory.create(config)
+        
+        if not args.out or args.q:
+            print("✅ Pipeline ready.\n")
+    except Exception as e:
+        print(f"❌ Error: Could not construct the pipeline. Reason: {e}")
+        return
 
-    # 3. Component Selection
-    if args.reranker == "cosine":
-        reranker = CosineReranker(chunks)
-        print("Using CosineReranker")
-    else:
-        reranker = SimpleReranker(chunks)
-        print("Using SimpleReranker")
+    # --- MODE A: SINGLE QUESTION (--q) ---
+    if args.q:
+        try:
+            print("=" * 60)
+            print(f"QUERY: {args.q}")
+            print("-" * 60)
+            
+            start_t = time.time()
+            # Execution using the Orchestrator (Controller)
+            answer = pipeline.run(args.q) 
+            end_t = time.time()
+            
+            # Extract final text using fallback attributes
+            final_text = getattr(answer, 'finalText', getattr(answer, 'text', str(answer)))
 
-    # 4. Pipeline
-    orchestrator = RagOrchestrator(
-        RuleBasedIntentDetector(),
-        HeuristicQueryWriter(),
-        KeywordRetriever(),
-        reranker,
-        TemplateAnswerAgent(),
-        index
-    )
+            print(f"ANSWER: {final_text}")
+            print("\nCITATIONS:")
+            if hasattr(answer, 'citations') and answer.citations:
+                for cit in answer.citations:
+                    # Formatted according to handout: docid:section:span
+                    print(f" - {str(cit)}")
+            else:
+                print(" - No citations available.")
+                
+            print(f"\nLatency: {(end_t - start_t)*1000:.2f} ms")
+            print("=" * 60)
+        except Exception as e:
+            print(f"Error during execution: {e}")
 
-    # 5. Execute
-    if args.batch:
-        run_batch(orchestrator, args.batch, args.out)
-        print(f"Wrote batch answers to {args.out}")
-    else:
-        answer = orchestrator.run(args.q)
-        print(str(answer))
+    # --- MODE B: BATCH PROCESSING (--batch) ---
+    elif args.batch:
+        fout = None
+        try:
+            if not os.path.exists(args.batch):
+                print(f"Error: Batch file not found -> {args.batch}")
+                return
 
+            if args.out:
+                print(f"Batch processing started: {args.batch} -> {args.out}")
+                fout = open(args.out, "w", encoding="utf-8")
+            else:
+                print(f"Warning: No --out parameter provided. Results will be printed to stdout.\n")
+
+            with open(args.batch, "r", encoding="utf-8") as fin:
+                lines = fin.readlines()
+                total = len(lines)
+                
+                for i, line in enumerate(lines):
+                    line = line.strip()
+                    if not line: continue
+                    
+                    try:
+                        data = json.loads(line)
+                    except json.JSONDecodeError:
+                        print(f"Line {i+1}: Invalid JSON format, skipping.")
+                        continue
+                    
+                    # Extract query from common keys
+                    q_text = data.get("question") or data.get("text") or data.get("q")
+                    q_id = data.get("id", str(i+1))
+                    
+                    if not q_text: continue
+
+                    # Execute query and measure latency
+                    start_t = time.time()
+                    result = pipeline.run(q_text)
+                    end_t = time.time()
+
+                    # Data Extraction and Formatting
+                    ans_text = getattr(result, 'finalText', getattr(result, 'text', ""))
+                    citations = [str(c) for c in (getattr(result, 'citations', []) or [])]
+
+                    output_record = {
+                        "id": q_id,
+                        "question": q_text,
+                        "answer": ans_text,
+                        "citations": citations,
+                        "latency_ms": int((end_t - start_t) * 1000)
+                    }
+                    
+                    # Output Strategy
+                    if fout:
+                        fout.write(json.dumps(output_record, ensure_ascii=False) + "\n")
+                        if (i+1) % 5 == 0:
+                            print(f"Progress: {i+1}/{total}")
+                    else:
+                        print("-" * 50)
+                        print(f"QUERY [{q_id}]: {q_text}")
+                        print(f"ANSWER: {ans_text}")
+                        print(f"SOURCES: {citations}")
+                        print("-" * 50)
+
+            print("✅ Batch processing completed successfully.")
+
+        except Exception as batch_err:
+            print(f"Critical Batch Error: {batch_err}")
+        finally:
+            if fout:
+                fout.close()
 
 if __name__ == "__main__":
     main()

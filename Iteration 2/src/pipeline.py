@@ -1,57 +1,80 @@
 import time
-from .tracing import TraceBus
-from .models import Answer  # for type hints (optional)
+import json
+import os
+from dataclasses import dataclass
+from typing import List, Callable
 
-class RagOrchestrator:
-    def __init__(self, intent_detector, query_writer, retriever, reranker, answer_agent, global_index):
-        self.intent_detector = intent_detector
-        self.query_writer = query_writer
-        self.retriever = retriever
-        self.reranker = reranker
-        self.answer_agent = answer_agent
-        self.global_index = global_index
+# Equivalent of Java's TraceEvent class
+@dataclass
+class TraceEvent:
+    stage: str
+    inputs: str
+    outputsSummary: str
+    timingMs: float
+    errors: str = None
+    timestamp: int = 0
 
-    def run(self, user_question: str) -> Answer:
-        """Run the pipeline for a single question and return an Answer object."""
+    def __post_init__(self):
+        # Add timestamp (in ms) when the event is created
+        self.timestamp = int(time.time() * 1000)
 
-        # START
-        t0 = time.time()
-        ...
 
-        # INTENT
-        t1 = time.time()
-        intent = self.intent_detector.detect(user_question)
-        TraceBus.push_full("INTENT", user_question, str(intent), int((time.time() - t1) * 1000))
+# Equivalent of Java's JsonlTraceSink class
+class JsonlTraceSink:
+    def __init__(self, log_file_path: str):
+        self.log_file_path = log_file_path
+        
+        # Auto-create directory if it does not exist
+        log_dir = os.path.dirname(log_file_path)
+        if log_dir and not os.path.exists(log_dir):
+            os.makedirs(log_dir)
 
-        # QUERY
-        t2 = time.time()
-        terms = self.query_writer.write(user_question, intent)
-        TraceBus.push_full("QUERY", user_question, str(terms), int((time.time() - t2) * 1000))
+    def accept(self, event: TraceEvent):
+        # Create JSON structure identical to Java implementation
+        data = {
+            "stage": event.stage,
+            # Clean newline characters to keep log entries single-line (JSONL)
+            "inputs": event.inputs.replace('"', "'").replace("\n", " ") if event.inputs else "",
+            "outputsSummary": event.outputsSummary.replace('"', "'").replace("\n", " ") if event.outputsSummary else "",
+            "timingMs": event.timingMs
+        }
+        
+        if event.errors:
+            data["errors"] = event.errors.replace('"', "'")
 
-        # RETRIEVE
-        t3 = time.time()
-        hits = self.retriever.retrieve(terms, self.global_index)
-        TraceBus.push_full("RETRIEVE", str(terms), f"{len(hits)} hits", int((time.time() - t3) * 1000))
+        # Append JSON object to file (JSONL format)
+        try:
+            with open(self.log_file_path, "a", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False)
+                f.write("\n")  # new line for JSONL
+        except Exception as e:
+            print(f"Logging error: {e}")
 
-        # RERANK
-        t4 = time.time()
-        reranked = self.reranker.rerank(terms, hits)
-        best = reranked[0].score if reranked else 0
-        TraceBus.push_full("RERANK", str(terms), f"best={best}", int((time.time() - t4) * 1000))
 
-        # ANSWER
-        t5 = time.time()
-        answer = self.answer_agent.answer(user_question, reranked)
-        TraceBus.push_full("ANSWER", user_question, answer.finalText[:80], int((time.time() - t5) * 1000))
+# Equivalent of Java's TraceBus class (Observer Pattern)
+class TraceBus:
+    _listeners: List[Callable[[TraceEvent], None]] = []
 
-        # END
-        total = int((time.time() - t0) * 1000)
-        TraceBus.push_full("END", "Pipeline completed", f"Total={total}ms", total)
+    @staticmethod
+    def register(listener):
+        """Register a new listener (sink)."""
+        # If listener is an object with an 'accept' method, register that method
+        if hasattr(listener, 'accept'):
+            TraceBus._listeners.append(listener.accept)
+        else:
+            # Otherwise, listener itself is a callable
+            TraceBus._listeners.append(listener)
 
-        return answer
+    @staticmethod
+    def push(stage: str, message: str):
+        """Simple logging method for backward compatibility."""
+        TraceBus.push_full(stage, "", message, 0, None)
 
-    def run_with_debug(self, user_question: str):
-        """Run and also return intermediate artifacts useful for batch evaluation."""
-        answer = self.run(user_question)
-        # We can re-compute light debug info from traces? For now, return answer only.
-        return answer
+    @staticmethod
+    def push_full(stage: str, inputs: str, outputs_summary: str, timing_ms: int, errors: str = None):
+        """Push a detailed log event to all listeners."""
+        event = TraceEvent(stage, inputs, outputs_summary, timing_ms, errors)
+        
+        # Notify all registered listeners
+        for listener in TraceBus._listeners:
+            listener(event)

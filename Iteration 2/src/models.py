@@ -17,6 +17,7 @@ class Chunk:
     startOffset: int
     endOffset: int
     sectionId: Optional[str] = None
+    embedding: Optional[List[float]] = None  # adding for iteration 2
 
 @dataclass
 class IndexEntry:
@@ -40,6 +41,7 @@ class Hit:
     chunkId: int
     score: float
     chunkText: Optional[str] = None
+    embedding: Optional[List[float]] = None # adding for iteration 2
 
     def __post_init__(self):
         # Score negated for DESC sort, others ASC

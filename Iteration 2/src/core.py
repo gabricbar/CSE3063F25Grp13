@@ -26,3 +26,5 @@ class AnswerAgent(ABC):
     @abstractmethod
     def answer(self, question: str, top_hits: List[Hit]) -> Answer:
         pass
+
+
